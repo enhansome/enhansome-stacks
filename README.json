@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:26:36Z",
+                "last_commit": "2026-08-24T13:56:48Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141895
+                "stars": 141912
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-23T14:13:18Z",
                 "owner": "redux-saga",
                 "repo": "redux-saga",
-                "stars": 22425
+                "stars": 22424
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-04-02T07:04:36Z",
                 "owner": "testing-library",
                 "repo": "react-testing-library",
-                "stars": 19647
+                "stars": 19648
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-05-06T07:42:22Z",
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18017
+                "stars": 18016
               }
             },
             {
@@ -79,6 +79,28 @@
                 "repo": "i18next",
                 "stars": 8619
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "react-next-boilerplate",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 168469219,
+                    "language": "JavaScript",
+                    "last_commit": "2024-09-17T05:18:21Z",
+                    "owner": "react-next-boilerplate",
+                    "repo": "react-next-boilerplate",
+                    "stars": 362
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "A basis for reducing the configuration of your projects with Next.js, best development practices and popular libraries in the developer community.",
@@ -96,10 +118,10 @@
                 "archived": false,
                 "id": 10270250,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:45:20Z",
+                "last_commit": "2026-08-24T13:14:18Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247675
+                "stars": 247688
               }
             },
             {
@@ -111,10 +133,10 @@
                 "archived": false,
                 "id": 27193779,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T15:52:13Z",
+                "last_commit": "2026-08-24T12:43:37Z",
                 "owner": "nodejs",
                 "repo": "node",
-                "stars": 119308
+                "stars": 119338
               }
             },
             {
@@ -129,7 +151,7 @@
                 "last_commit": "2026-08-22T21:00:02Z",
                 "owner": "expressjs",
                 "repo": "express",
-                "stars": 69390
+                "stars": 69393
               }
             },
             {
@@ -141,10 +163,10 @@
                 "archived": false,
                 "id": 3678731,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:44:29Z",
+                "last_commit": "2026-08-23T20:45:05Z",
                 "owner": "webpack",
                 "repo": "webpack",
-                "stars": 65975
+                "stars": 65971
               }
             },
             {
@@ -159,7 +181,7 @@
                 "last_commit": "2026-08-23T14:27:11Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43988
+                "stars": 43989
               }
             },
             {
@@ -176,6 +198,28 @@
                 "repo": "graphql-js",
                 "stars": 20345
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "react-starter-kit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18840003,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-23T20:58:14Z",
+                    "owner": "kriasoft",
+                    "repo": "react-starter-kit",
+                    "stars": 23669
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "React Starter Kit is an opinionated boilerplate for web development built on top of Node.js, Express, GraphQL and React, containing modern web development tools such as Webpack, Babel and Browsersync.",
@@ -196,7 +240,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103289
+                "stars": 103286
               }
             },
             {
@@ -208,10 +252,10 @@
                 "archived": false,
                 "id": 23083156,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T00:31:46Z",
+                "last_commit": "2026-08-24T12:56:04Z",
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 98900
+                "stars": 98914
               }
             },
             {
@@ -238,11 +282,33 @@
                 "archived": false,
                 "id": 40508605,
                 "language": "Rust",
-                "last_commit": "2026-08-21T21:27:51Z",
+                "last_commit": "2026-08-24T08:29:02Z",
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18956
+                "stars": 18955
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "react-firebase-starter",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 37616442,
+                    "language": "JavaScript",
+                    "last_commit": "2024-01-04T13:51:54Z",
+                    "owner": "kriasoft",
+                    "repo": "react-firebase-starter",
+                    "stars": 4513
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "React Starter Kit for Firebase is a popular project template (aka, boilerplate) for building modern, scalable web applications with React, Relay, and GraphQL using serverless infrastructure provided by Google Cloud (Cloud SQL, Cloud Functions, CDN hosting, and file storage).",
@@ -263,7 +329,7 @@
                 "last_commit": "2024-10-10T07:24:15Z",
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210468
+                "stars": 210476
               }
             },
             {
@@ -275,10 +341,10 @@
                 "archived": false,
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-21T21:39:39Z",
+                "last_commit": "2026-08-24T01:47:42Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110617
+                "stars": 110650
               }
             },
             {
@@ -290,10 +356,10 @@
                 "archived": false,
                 "id": 75104123,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T08:13:56Z",
+                "last_commit": "2026-08-24T13:46:55Z",
                 "owner": "prettier",
                 "repo": "prettier",
-                "stars": 52212
+                "stars": 52213
               }
             },
             {
@@ -305,10 +371,10 @@
                 "archived": false,
                 "id": 15062869,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:48:35Z",
+                "last_commit": "2026-08-24T02:13:21Z",
                 "owner": "jestjs",
                 "repo": "jest",
-                "stars": 45473
+                "stars": 45471
               }
             },
             {
@@ -338,7 +404,7 @@
                 "last_commit": "2026-04-14T01:14:33Z",
                 "owner": "vuejs",
                 "repo": "vue-router",
-                "stars": 18875
+                "stars": 18876
               }
             }
           ],
@@ -360,7 +426,7 @@
                 "last_commit": "2024-10-10T07:24:15Z",
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210468
+                "stars": 210476
               }
             },
             {
@@ -375,7 +441,7 @@
                 "last_commit": "2026-08-23T14:27:11Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43988
+                "stars": 43989
               }
             },
             {
@@ -420,7 +486,7 @@
                 "last_commit": "2026-04-14T01:14:33Z",
                 "owner": "vuejs",
                 "repo": "vue-router",
-                "stars": 18875
+                "stars": 18876
               }
             },
             {
@@ -435,8 +501,30 @@
                 "last_commit": "2026-08-19T21:53:45Z",
                 "owner": "sass",
                 "repo": "sass",
-                "stars": 15373
+                "stars": 15372
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vue-enterprise-boilerplate",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 122026655,
+                    "language": "SCSS",
+                    "last_commit": "2026-01-26T23:39:47Z",
+                    "owner": "bencodezen",
+                    "repo": "vue-enterprise-boilerplate",
+                    "stars": 7778
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "An ever-evolving and opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.",
@@ -457,7 +545,7 @@
                 "last_commit": "2026-08-21T19:12:38Z",
                 "owner": "gatsbyjs",
                 "repo": "gatsby",
-                "stars": 55940
+                "stars": 55941
               }
             },
             {
@@ -491,10 +579,10 @@
                 "archived": false,
                 "id": 11180687,
                 "language": "Go",
-                "last_commit": "2026-08-20T19:56:40Z",
+                "last_commit": "2026-08-24T09:36:58Z",
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 89502
+                "stars": 89519
               }
             },
             {
@@ -506,10 +594,10 @@
                 "archived": false,
                 "id": 3678731,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:44:29Z",
+                "last_commit": "2026-08-23T20:45:05Z",
                 "owner": "webpack",
                 "repo": "webpack",
-                "stars": 65975
+                "stars": 65971
               }
             },
             {
@@ -524,7 +612,7 @@
                 "last_commit": "2026-08-23T14:27:11Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43988
+                "stars": 43989
               }
             },
             {
@@ -541,6 +629,28 @@
                 "repo": "postcss",
                 "stars": 28983
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "netlify-templates/victor-hugo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 62660511,
+                    "language": "JavaScript",
+                    "last_commit": "2021-12-23T20:45:28Z",
+                    "owner": "netlify-templates",
+                    "repo": "victor-hugo",
+                    "stars": 1508
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "A Hugo boilerplate for creating truly epic websites. This is a boilerplate for using Hugo as a static site generator and Webpack as your asset pipeline.",
@@ -558,10 +668,10 @@
                 "archived": false,
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-21T21:39:39Z",
+                "last_commit": "2026-08-24T01:47:42Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110617
+                "stars": 110650
               }
             },
             {
@@ -573,10 +683,10 @@
                 "archived": false,
                 "id": 7691631,
                 "language": "Go",
-                "last_commit": "2026-08-22T22:28:30Z",
+                "last_commit": "2026-08-24T13:18:02Z",
                 "owner": "moby",
                 "repo": "moby",
-                "stars": 71992
+                "stars": 71994
               }
             },
             {
@@ -588,10 +698,10 @@
                 "archived": false,
                 "id": 71995937,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T10:01:42Z",
+                "last_commit": "2026-08-24T13:45:38Z",
                 "owner": "nuxt",
                 "repo": "nuxt",
-                "stars": 60784
+                "stars": 60789
               }
             },
             {
@@ -603,10 +713,10 @@
                 "archived": false,
                 "id": 15062869,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:48:35Z",
+                "last_commit": "2026-08-24T02:13:21Z",
                 "owner": "jestjs",
                 "repo": "jest",
-                "stars": 45473
+                "stars": 45471
               }
             },
             {
@@ -618,10 +728,10 @@
                 "archived": false,
                 "id": 11061773,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T12:41:55Z",
+                "last_commit": "2026-08-24T11:47:55Z",
                 "owner": "eslint",
                 "repo": "eslint",
-                "stars": 27476
+                "stars": 27478
               }
             },
             {
@@ -636,7 +746,7 @@
                 "last_commit": "2026-08-19T21:53:45Z",
                 "owner": "sass",
                 "repo": "sass",
-                "stars": 15373
+                "stars": 15372
               }
             },
             {
@@ -648,11 +758,33 @@
                 "archived": false,
                 "id": 27549019,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T09:18:36Z",
+                "last_commit": "2026-08-24T05:19:48Z",
                 "owner": "stylelint",
                 "repo": "stylelint",
-                "stars": 11511
+                "stars": 11510
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "wemake-vue-template",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 108764849,
+                    "language": "TypeScript",
+                    "last_commit": "2025-07-04T12:41:28Z",
+                    "owner": "wemake-services",
+                    "repo": "wemake-vue-template",
+                    "stars": 729
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "Bleeding edge vue template focused on code quality and developer happiness.\nOffers a complete setup for both small and enterprise-scale apps.",
@@ -670,10 +802,10 @@
                 "archived": false,
                 "id": 10270250,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:45:20Z",
+                "last_commit": "2026-08-24T13:14:18Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247675
+                "stars": 247688
               }
             },
             {
@@ -685,10 +817,10 @@
                 "archived": false,
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:26:36Z",
+                "last_commit": "2026-08-24T13:56:48Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141895
+                "stars": 141912
               }
             },
             {
@@ -700,10 +832,10 @@
                 "archived": false,
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-21T21:39:39Z",
+                "last_commit": "2026-08-24T01:47:42Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110617
+                "stars": 110650
               }
             },
             {
@@ -718,7 +850,7 @@
                 "last_commit": "2026-08-23T14:27:11Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43988
+                "stars": 43989
               }
             },
             {
@@ -745,11 +877,33 @@
                 "archived": false,
                 "id": 11061773,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T12:41:55Z",
+                "last_commit": "2026-08-24T11:47:55Z",
                 "owner": "eslint",
                 "repo": "eslint",
-                "stars": 27476
+                "stars": 27478
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Nextjs Blog Starter",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 282446217,
+                    "language": "TypeScript",
+                    "last_commit": "2025-08-31T15:10:05Z",
+                    "owner": "ixartz",
+                    "repo": "Next-js-Blog-Boilerplate",
+                    "stars": 688
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "A Nextjs Boilerplate code for creating a blog. The perfect solution to start a blog in React and use Tailwind CSS for styling.",
@@ -773,10 +927,10 @@
                 "archived": false,
                 "id": 10270250,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:45:20Z",
+                "last_commit": "2026-08-24T13:14:18Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247675
+                "stars": 247688
               }
             },
             {
@@ -788,10 +942,10 @@
                 "archived": false,
                 "id": 27193779,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T15:52:13Z",
+                "last_commit": "2026-08-24T12:43:37Z",
                 "owner": "nodejs",
                 "repo": "node",
-                "stars": 119308
+                "stars": 119338
               }
             },
             {
@@ -806,7 +960,7 @@
                 "last_commit": "2026-08-22T21:00:02Z",
                 "owner": "expressjs",
                 "repo": "express",
-                "stars": 69390
+                "stars": 69393
               }
             },
             {
@@ -818,10 +972,10 @@
                 "archived": false,
                 "id": 108110,
                 "language": "C++",
-                "last_commit": "2026-08-22T12:47:01Z",
+                "last_commit": "2026-08-24T11:46:48Z",
                 "owner": "mongodb",
                 "repo": "mongo",
-                "stars": 28502
+                "stars": 28503
               }
             }
           ],
@@ -843,7 +997,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103289
+                "stars": 103286
               }
             },
             {
@@ -855,11 +1009,33 @@
                 "archived": false,
                 "id": 52630616,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T14:01:50Z",
+                "last_commit": "2026-08-23T23:59:53Z",
                 "owner": "apollographql",
                 "repo": "apollo-client",
                 "stars": 19809
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GraphCMS starter blog with React & Apollo Client",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 112241094,
+                    "language": "Swift",
+                    "last_commit": "2024-07-25T11:42:55Z",
+                    "owner": "hygraph",
+                    "repo": "hygraph-examples",
+                    "stars": 618
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "Lightning fast starter for bloggers, content creators, and really anyone who wants to break free from WordPress.",
@@ -877,10 +1053,10 @@
                 "archived": false,
                 "id": 43441403,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:02:04Z",
+                "last_commit": "2026-08-24T13:47:15Z",
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73007
+                "stars": 73010
               }
             },
             {
@@ -895,7 +1071,7 @@
                 "last_commit": "2026-08-21T19:12:38Z",
                 "owner": "gatsbyjs",
                 "repo": "gatsby",
-                "stars": 55940
+                "stars": 55941
               }
             }
           ],
@@ -914,7 +1090,7 @@
                 "archived": false,
                 "id": 39443258,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T11:01:25Z",
+                "last_commit": "2026-08-24T12:59:02Z",
                 "owner": "algolia",
                 "repo": "instantsearch",
                 "stars": 4054
@@ -932,7 +1108,7 @@
                 "last_commit": "2024-04-24T13:50:10Z",
                 "owner": "algolia",
                 "repo": "docsearch-scraper",
-                "stars": 322
+                "stars": 321
               }
             },
             {
@@ -947,7 +1123,7 @@
                 "last_commit": "2023-11-02T10:08:56Z",
                 "owner": "algolia",
                 "repo": "gatsby-plugin-algolia",
-                "stars": 176
+                "stars": 175
               }
             },
             {
@@ -984,7 +1160,7 @@
                 "last_commit": "2024-10-10T07:24:15Z",
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210468
+                "stars": 210476
               }
             },
             {
@@ -996,10 +1172,10 @@
                 "archived": false,
                 "id": 27193779,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T15:52:13Z",
+                "last_commit": "2026-08-24T12:43:37Z",
                 "owner": "nodejs",
                 "repo": "node",
-                "stars": 119308
+                "stars": 119338
               }
             },
             {
@@ -1014,7 +1190,7 @@
                 "last_commit": "2026-08-22T21:00:02Z",
                 "owner": "expressjs",
                 "repo": "express",
-                "stars": 69390
+                "stars": 69393
               }
             },
             {
@@ -1026,10 +1202,10 @@
                 "archived": false,
                 "id": 108110,
                 "language": "C++",
-                "last_commit": "2026-08-22T12:47:01Z",
+                "last_commit": "2026-08-24T11:46:48Z",
                 "owner": "mongodb",
                 "repo": "mongo",
-                "stars": 28502
+                "stars": 28503
               }
             }
           ],
@@ -1048,10 +1224,10 @@
                 "archived": false,
                 "id": 10270250,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:45:20Z",
+                "last_commit": "2026-08-24T13:14:18Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247675
+                "stars": 247688
               }
             },
             {
@@ -1063,10 +1239,10 @@
                 "archived": false,
                 "id": 8514,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T07:26:00Z",
+                "last_commit": "2026-08-24T10:26:47Z",
                 "owner": "rails",
                 "repo": "rails",
-                "stars": 58704
+                "stars": 58709
               }
             },
             {
@@ -1078,7 +1254,7 @@
                 "archived": false,
                 "id": 52630616,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T14:01:50Z",
+                "last_commit": "2026-08-23T23:59:53Z",
                 "owner": "apollographql",
                 "repo": "apollo-client",
                 "stars": 19809
@@ -1118,7 +1294,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103289
+                "stars": 103286
               }
             },
             {
@@ -1152,10 +1328,10 @@
                 "archived": false,
                 "id": 10270250,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:45:20Z",
+                "last_commit": "2026-08-24T13:14:18Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247675
+                "stars": 247688
               }
             },
             {
@@ -1167,10 +1343,10 @@
                 "archived": false,
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:28:36Z",
+                "last_commit": "2026-08-24T13:59:27Z",
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122662
+                "stars": 122687
               }
             },
             {
@@ -1197,10 +1373,10 @@
                 "archived": false,
                 "id": 35998691,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T15:48:49Z",
+                "last_commit": "2026-08-23T19:15:41Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14645
+                "stars": 14648
               }
             }
           ],
@@ -1222,7 +1398,7 @@
                 "last_commit": "2024-10-10T07:24:15Z",
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210468
+                "stars": 210476
               }
             },
             {
@@ -1234,10 +1410,10 @@
                 "archived": false,
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:28:36Z",
+                "last_commit": "2026-08-24T13:59:27Z",
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122662
+                "stars": 122687
               }
             },
             {
@@ -1282,7 +1458,7 @@
                 "last_commit": "2026-04-14T01:14:33Z",
                 "owner": "vuejs",
                 "repo": "vue-router",
-                "stars": 18875
+                "stars": 18876
               }
             },
             {
@@ -1294,10 +1470,10 @@
                 "archived": false,
                 "id": 35998691,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T15:48:49Z",
+                "last_commit": "2026-08-23T19:15:41Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14645
+                "stars": 14648
               }
             }
           ],
@@ -1319,7 +1495,7 @@
                 "last_commit": "2024-10-10T07:24:15Z",
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210468
+                "stars": 210476
               }
             },
             {
@@ -1334,7 +1510,7 @@
                 "last_commit": "2026-08-18T13:45:25Z",
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84848
+                "stars": 84858
               }
             },
             {
@@ -1349,7 +1525,7 @@
                 "last_commit": "2026-08-23T14:27:11Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43988
+                "stars": 43989
               }
             },
             {
@@ -1361,7 +1537,7 @@
                 "archived": false,
                 "id": 1903522,
                 "language": "C",
-                "last_commit": "2026-08-23T16:01:26Z",
+                "last_commit": "2026-08-24T13:49:40Z",
                 "owner": "php",
                 "repo": "php-src",
                 "stars": 40314
@@ -1379,7 +1555,7 @@
                 "last_commit": "2026-08-19T21:53:45Z",
                 "owner": "sass",
                 "repo": "sass",
-                "stars": 15373
+                "stars": 15372
               }
             },
             {
@@ -1413,10 +1589,10 @@
                 "archived": false,
                 "id": 10270250,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:45:20Z",
+                "last_commit": "2026-08-24T13:14:18Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247675
+                "stars": 247688
               }
             },
             {
@@ -1428,10 +1604,10 @@
                 "archived": false,
                 "id": 81598961,
                 "language": "Python",
-                "last_commit": "2026-08-23T16:47:55Z",
+                "last_commit": "2026-08-24T11:34:41Z",
                 "owner": "python",
                 "repo": "cpython",
-                "stars": 74715
+                "stars": 74731
               }
             },
             {
@@ -1446,7 +1622,7 @@
                 "last_commit": "2026-08-16T18:35:35Z",
                 "owner": "pallets",
                 "repo": "flask",
-                "stars": 72143
+                "stars": 72147
               }
             },
             {
@@ -1458,11 +1634,33 @@
                 "archived": false,
                 "id": 108110,
                 "language": "C++",
-                "last_commit": "2026-08-22T12:47:01Z",
+                "last_commit": "2026-08-24T11:46:48Z",
                 "owner": "mongodb",
                 "repo": "mongo",
-                "stars": 28502
+                "stars": 28503
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Boilerplate",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 281851888,
+                    "language": "JavaScript",
+                    "last_commit": "2020-07-30T11:41:27Z",
+                    "owner": "FReMP",
+                    "repo": "fremp",
+                    "stars": 15
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "FReMP stack is a highly scalable full stack framework, which can be used to build robust and modern web apps using Flask, ReactJS, MongoDB and Python.",
@@ -1489,7 +1687,7 @@
                 "last_commit": "2026-08-21T00:56:52Z",
                 "owner": "kubernetes",
                 "repo": "kubernetes",
-                "stars": 124921
+                "stars": 124946
               }
             },
             {
@@ -1501,10 +1699,10 @@
                 "archived": false,
                 "id": 7691631,
                 "language": "Go",
-                "last_commit": "2026-08-22T22:28:30Z",
+                "last_commit": "2026-08-24T13:18:02Z",
                 "owner": "moby",
                 "repo": "moby",
-                "stars": 71992
+                "stars": 71994
               }
             }
           ],
@@ -1523,10 +1721,10 @@
                 "archived": false,
                 "id": 40892817,
                 "language": "C++",
-                "last_commit": "2026-08-21T12:58:21Z",
+                "last_commit": "2026-08-24T12:41:36Z",
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25708
+                "stars": 25711
               }
             },
             {
@@ -1541,7 +1739,7 @@
                 "last_commit": "2025-03-05T08:48:59Z",
                 "owner": "web3",
                 "repo": "web3.js",
-                "stars": 19920
+                "stars": 19919
               }
             },
             {
@@ -1556,7 +1754,7 @@
                 "last_commit": "2024-04-22T08:47:19Z",
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13916
+                "stars": 13914
               }
             },
             {
@@ -1613,6 +1811,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "rack-mini-profiler",
+              "description": "🐙 - Profiler for your development and production Ruby rack apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12656803,
+                "language": "Ruby",
+                "last_commit": "2026-08-21T06:05:15Z",
+                "owner": "MiniProfiler",
+                "repo": "rack-mini-profiler",
+                "stars": 3905
+              }
+            }
+          ],
+          "description": "Tools to use to monitor your Rails app in production.",
+          "node_type": "group",
+          "title": "Rails Monitoring Stack ↗"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Apache Spark",
               "description": "🛠 - 🐙 - Fast and general engine for large-scale data processing.",
               "children": [],
@@ -1620,10 +1840,10 @@
                 "archived": false,
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-23T13:41:26Z",
+                "last_commit": "2026-08-24T09:08:09Z",
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 43864
+                "stars": 43867
               }
             },
             {
@@ -1635,10 +1855,10 @@
                 "archived": false,
                 "id": 2211243,
                 "language": "Java",
-                "last_commit": "2026-08-23T15:11:12Z",
+                "last_commit": "2026-08-24T13:59:00Z",
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33596
+                "stars": 33605
               }
             },
             {
@@ -1655,6 +1875,28 @@
                 "repo": "cassandra",
                 "stars": 10079
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "kafka-sparkstreaming-cassandra",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59815411,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2019-06-17T11:17:09Z",
+                    "owner": "Yannael",
+                    "repo": "kafka-sparkstreaming-cassandra",
+                    "stars": 96
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.",
@@ -1672,10 +1914,10 @@
                 "archived": false,
                 "id": 30203935,
                 "language": "Clojure",
-                "last_commit": "2026-08-23T13:48:32Z",
+                "last_commit": "2026-08-24T14:00:19Z",
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 48886
+                "stars": 48904
               }
             },
             {
@@ -1687,10 +1929,10 @@
                 "archived": false,
                 "id": 873328,
                 "language": "Python",
-                "last_commit": "2026-08-23T12:09:43Z",
+                "last_commit": "2026-08-24T13:59:07Z",
                 "owner": "getsentry",
                 "repo": "sentry",
-                "stars": 44606
+                "stars": 44609
               }
             },
             {
@@ -1702,10 +1944,10 @@
                 "archived": false,
                 "id": 43160685,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:37:09Z",
+                "last_commit": "2026-08-24T09:43:24Z",
                 "owner": "zulip",
                 "repo": "zulip",
-                "stars": 25762
+                "stars": 25765
               }
             },
             {
@@ -1717,10 +1959,10 @@
                 "archived": false,
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T12:14:54Z",
+                "last_commit": "2026-08-24T12:09:13Z",
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
-                "stars": 24537
+                "stars": 24535
               }
             },
             {
@@ -1735,7 +1977,7 @@
                 "last_commit": "2026-07-22T14:58:48Z",
                 "owner": "hubotio",
                 "repo": "hubot",
-                "stars": 16796
+                "stars": 16797
               }
             }
           ],
@@ -1754,10 +1996,10 @@
                 "archived": false,
                 "id": 4164482,
                 "language": "Python",
-                "last_commit": "2026-08-21T12:34:31Z",
+                "last_commit": "2026-08-23T19:39:31Z",
                 "owner": "django",
                 "repo": "django",
-                "stars": 88751
+                "stars": 88761
               }
             },
             {
@@ -1772,7 +2014,7 @@
                 "last_commit": "2026-08-22T03:17:26Z",
                 "owner": "caddyserver",
                 "repo": "caddy",
-                "stars": 75140
+                "stars": 75167
               }
             },
             {
@@ -1784,10 +2026,10 @@
                 "archived": false,
                 "id": 81598961,
                 "language": "Python",
-                "last_commit": "2026-08-23T16:47:55Z",
+                "last_commit": "2026-08-24T11:34:41Z",
                 "owner": "python",
                 "repo": "cpython",
-                "stars": 74715
+                "stars": 74731
               }
             },
             {
@@ -1799,10 +2041,10 @@
                 "archived": false,
                 "id": 7691631,
                 "language": "Go",
-                "last_commit": "2026-08-22T22:28:30Z",
+                "last_commit": "2026-08-24T13:18:02Z",
                 "owner": "moby",
                 "repo": "moby",
-                "stars": 71992
+                "stars": 71994
               }
             },
             {
@@ -1814,11 +2056,33 @@
                 "archived": false,
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T12:14:54Z",
+                "last_commit": "2026-08-24T12:09:13Z",
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
-                "stars": 24537
+                "stars": 24535
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "wemake-django-template",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 103513062,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:24:09Z",
+                    "owner": "wemake-services",
+                    "repo": "wemake-django-template",
+                    "stars": 2268
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resources"
             }
           ],
           "description": "Bleeding edge Django template focused on code quality and security.\nBuild, test, and deploy pipelines are configured by default.",
@@ -1836,10 +2100,10 @@
                 "archived": false,
                 "id": 6296790,
                 "language": "Java",
-                "last_commit": "2026-08-21T09:02:01Z",
+                "last_commit": "2026-08-24T13:08:24Z",
                 "owner": "spring-projects",
                 "repo": "spring-boot",
-                "stars": 81345
+                "stars": 81353
               }
             },
             {
@@ -1851,10 +2115,10 @@
                 "archived": false,
                 "id": 302322,
                 "language": "Groovy",
-                "last_commit": "2026-08-23T04:23:19Z",
+                "last_commit": "2026-08-24T13:45:31Z",
                 "owner": "gradle",
                 "repo": "gradle",
-                "stars": 18790
+                "stars": 18795
               }
             }
           ],
@@ -1873,10 +2137,10 @@
                 "archived": false,
                 "id": 10270250,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T16:45:20Z",
+                "last_commit": "2026-08-24T13:14:18Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247675
+                "stars": 247688
               }
             },
             {
@@ -1916,10 +2180,10 @@
                 "archived": false,
                 "id": 29028775,
                 "language": "C++",
-                "last_commit": "2026-08-22T21:10:22Z",
+                "last_commit": "2026-08-24T13:57:54Z",
                 "owner": "react",
                 "repo": "react-native",
-                "stars": 126394
+                "stars": 126405
               }
             },
             {
@@ -1931,10 +2195,10 @@
                 "archived": false,
                 "id": 65750241,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T16:39:23Z",
+                "last_commit": "2026-08-24T13:56:31Z",
                 "owner": "expo",
                 "repo": "expo",
-                "stars": 51771
+                "stars": 51794
               }
             },
             {
@@ -1971,7 +2235,7 @@
                 "last_commit": "2026-08-20T10:05:00Z",
                 "owner": "Unity-Technologies",
                 "repo": "UnityCsReference",
-                "stars": 12960
+                "stars": 12964
               }
             },
             {
@@ -1993,13 +2257,35 @@
           "description": "Unity is a game engine that connects to Plastic SCM to keep version control and large asset and huge repo management clean and frictionless.",
           "node_type": "group",
           "title": "Unity Game Development boilerplate ↗"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jenkins",
+              "description": "🛠️ - 🐙 - Open source automation server for CI/CD.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103607,
+                "language": "Java",
+                "last_commit": "2026-08-24T00:53:02Z",
+                "owner": "jenkinsci",
+                "repo": "jenkins",
+                "stars": 26485
+              }
+            }
+          ],
+          "description": "Boost your Productivity with GitHub, Jira and Jenkins.",
+          "node_type": "group",
+          "title": "Workflow Automation with GitHub, Jira and Jenkins ↗"
         }
       ],
       "title": "Mobile"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:49:31.784Z",
+    "last_updated": "2026-08-24T14:00:22.991Z",
     "original_repository": "stackshareio/awesome-stacks",
     "original_repository_id": 174027707,
     "original_repository_sha": "70c81c220f254b9ca37cc5692cb29bafac306768",
