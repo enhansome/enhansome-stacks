@@ -12,12 +12,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The React Framework",
+                "homepage": "https://nextjs.org",
                 "id": 70107786,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T00:19:20Z",
+                "open_issues": 3638,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141976
+                "stars": 141980,
+                "topics": [
+                  "blog",
+                  "browser",
+                  "compiler",
+                  "components",
+                  "hybrid",
+                  "nextjs",
+                  "node",
+                  "react",
+                  "server-rendering",
+                  "ssg",
+                  "static",
+                  "static-site-generator",
+                  "universal",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -28,12 +48,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An alternative side effect model for Redux apps",
+                "homepage": "https://redux-saga.js.org/",
                 "id": 47071941,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T14:13:18Z",
+                "open_issues": 21,
                 "owner": "redux-saga",
                 "repo": "redux-saga",
-                "stars": 22424
+                "stars": 22424,
+                "topics": [
+                  "effects",
+                  "middleware",
+                  "redux",
+                  "redux-saga",
+                  "sagas"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -44,12 +75,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices.",
+                "homepage": "https://testing-library.com/react",
                 "id": 125863507,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T17:40:18Z",
+                "open_issues": 81,
                 "owner": "testing-library",
                 "repo": "react-testing-library",
-                "stars": 19646
+                "stars": 19646,
+                "topics": [
+                  "javascript",
+                  "reactjs",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -60,12 +100,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition",
+                "homepage": "https://emotion.sh/",
                 "id": 92570536,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:30:54Z",
+                "open_issues": 392,
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18021
+                "stars": 18020,
+                "topics": [
+                  "babel-plugin",
+                  "css",
+                  "css-in-js",
+                  "emotion",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -76,12 +128,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " i18next: learn once - translate everywhere",
+                "homepage": "https://www.i18next.com",
                 "id": 2994517,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T09:22:09Z",
+                "open_issues": 2,
                 "owner": "i18next",
                 "repo": "i18next",
-                "stars": 8624
+                "stars": 8624,
+                "topics": [
+                  "deno",
+                  "ecosystem",
+                  "flexibility",
+                  "i18n",
+                  "internationalization",
+                  "javascript",
+                  "nodejs",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -94,12 +160,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": ":rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.",
+                    "homepage": "https://www.reactnextboilerplate.com",
                     "id": 168469219,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-09-17T05:18:21Z",
+                    "open_issues": 9,
                     "owner": "react-next-boilerplate",
                     "repo": "react-next-boilerplate",
-                    "stars": 362
+                    "stars": 362,
+                    "topics": [
+                      "boilerplate",
+                      "boilerplate-community",
+                      "css-in-js",
+                      "emotion",
+                      "hacktoberfest",
+                      "i18n",
+                      "immer",
+                      "javascript",
+                      "next-i18next",
+                      "nextjs",
+                      "react",
+                      "react-next-boilerplate",
+                      "redux",
+                      "redux-saga",
+                      "reselect",
+                      "seo",
+                      "styled-components",
+                      "template",
+                      "testing-library"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -122,12 +213,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for web and native user interfaces.",
+                "homepage": "https://react.dev",
                 "id": 10270250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:10:40Z",
+                "open_issues": 1281,
                 "owner": "react",
                 "repo": "react",
-                "stars": 248011
+                "stars": 248015,
+                "topics": [
+                  "declarative",
+                  "frontend",
+                  "javascript",
+                  "library",
+                  "react",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -138,12 +241,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+                "homepage": "https://nodejs.org",
                 "id": 27193779,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T23:00:22Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:08:42Z",
+                "open_issues": 1191,
                 "owner": "nodejs",
                 "repo": "node",
-                "stars": 119661
+                "stars": 119660,
+                "topics": [
+                  "javascript",
+                  "js",
+                  "linux",
+                  "macos",
+                  "mit",
+                  "node",
+                  "nodejs",
+                  "runtime",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -154,12 +272,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, unopinionated, minimalist web framework for node.",
+                "homepage": "https://expressjs.com",
                 "id": 237159,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T21:00:02Z",
+                "open_issues": 228,
                 "owner": "expressjs",
                 "repo": "express",
-                "stars": 69401
+                "stars": 69400,
+                "topics": [
+                  "express",
+                  "javascript",
+                  "nodejs",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -170,12 +298,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+                "homepage": "https://webpack.js.org",
                 "id": 3678731,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:57:53Z",
+                "open_issues": 131,
                 "owner": "webpack",
                 "repo": "webpack",
-                "stars": 65964
+                "stars": 65963,
+                "topics": [
+                  "amd",
+                  "build-tool",
+                  "commonjs",
+                  "compiler",
+                  "es2015",
+                  "es6",
+                  "esm",
+                  "javascript",
+                  "javascript-compiler",
+                  "javascript-modules",
+                  "loaders",
+                  "module-bundler",
+                  "plugins",
+                  "web",
+                  "web-performance",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -186,12 +336,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+                "homepage": "https://babel.dev",
                 "id": 24560307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:39:56Z",
+                "open_issues": 777,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43985
+                "stars": 43985,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "compiler",
+                  "es2015",
+                  "es6",
+                  "flavortown",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -202,12 +365,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reference implementation of GraphQL for JavaScript",
+                "homepage": "http://graphql.org/graphql-js/",
                 "id": 38307428,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:56:06Z",
+                "open_issues": 97,
                 "owner": "graphql",
                 "repo": "graphql-js",
-                "stars": 20347
+                "stars": 20347,
+                "topics": [
+                  "graphql",
+                  "graphql-js"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -220,12 +391,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.",
+                    "homepage": "https://reactstarter.com",
                     "id": 18840003,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-23T20:58:14Z",
+                    "open_issues": 9,
                     "owner": "kriasoft",
                     "repo": "react-starter-kit",
-                    "stars": 23671
+                    "stars": 23671,
+                    "topics": [
+                      "better-auth",
+                      "boilerplate",
+                      "bun",
+                      "cloudflare",
+                      "cloudflare-workers",
+                      "drizzle-orm",
+                      "gcp",
+                      "hono",
+                      "neon",
+                      "nodejs",
+                      "react",
+                      "saas",
+                      "shadcn-ui",
+                      "starter-kit",
+                      "tailwindcss",
+                      "tanstack-router",
+                      "template",
+                      "trpc",
+                      "typescript",
+                      "vite"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -248,12 +445,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a modern web app by running one command.",
+                "homepage": "https://create-react-app.dev/",
                 "id": 63537249,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280
+                "stars": 103279,
+                "topics": [
+                  "build-tools",
+                  "react",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -264,12 +470,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+                "homepage": "https://mui.com/material-ui/",
                 "id": 23083156,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:03:40Z",
+                "open_issues": 1488,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 98958
+                "stars": 98958,
+                "topics": [
+                  "design-system",
+                  "material-design",
+                  "material-ui",
+                  "react",
+                  "react-components"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -280,12 +497,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reference implementation of GraphQL for JavaScript",
+                "homepage": "http://graphql.org/graphql-js/",
                 "id": 38307428,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:56:06Z",
+                "open_issues": 97,
                 "owner": "graphql",
                 "repo": "graphql-js",
-                "stars": 20347
+                "stars": 20347,
+                "topics": [
+                  "graphql",
+                  "graphql-js"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -296,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Relay is a JavaScript framework for building data-driven React applications.",
+                "homepage": "https://relay.dev",
                 "id": 40508605,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T22:48:23Z",
+                "open_issues": 857,
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18958
+                "stars": 18958,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -314,12 +544,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay",
+                    "homepage": "https://firebase.reactstarter.com",
                     "id": 37616442,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-01-04T13:51:54Z",
+                    "open_issues": 134,
                     "owner": "kriasoft",
                     "repo": "react-firebase-starter",
-                    "stars": 4513
+                    "stars": 4513,
+                    "topics": [
+                      "boilerplate",
+                      "create-react-app",
+                      "firebase",
+                      "firebase-functions",
+                      "firestore",
+                      "gcp",
+                      "graphql",
+                      "hmr",
+                      "javascript",
+                      "postgresql",
+                      "react",
+                      "reactjs",
+                      "relay",
+                      "relay-modern",
+                      "seo",
+                      "server-side-rendering",
+                      "serverless",
+                      "spa",
+                      "ssr",
+                      "styled-components"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -342,12 +598,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+                "homepage": "http://v2.vuejs.org",
                 "id": 11730342,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-10T07:24:15Z",
+                "open_issues": 636,
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210753
+                "stars": 210750,
+                "topics": [
+                  "framework",
+                  "frontend",
+                  "javascript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -358,12 +624,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+                "homepage": "https://www.typescriptlang.org",
                 "id": 20929025,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T00:01:59Z",
+                "open_issues": 5166,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110752
+                "stars": 110758,
+                "topics": [
+                  "javascript",
+                  "language",
+                  "typechecker",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -374,12 +650,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prettier is an opinionated code formatter.",
+                "homepage": "https://prettier.io",
                 "id": 75104123,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T06:53:03Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 1417,
                 "owner": "prettier",
                 "repo": "prettier",
-                "stars": 52216
+                "stars": 52215,
+                "topics": [
+                  "angular",
+                  "ast",
+                  "css",
+                  "flow",
+                  "formatter",
+                  "graphql",
+                  "html",
+                  "javascript",
+                  "json",
+                  "jsx",
+                  "less",
+                  "markdown",
+                  "prettier",
+                  "printer",
+                  "scss",
+                  "typescript",
+                  "vue",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -390,12 +690,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Delightful JavaScript Testing.",
+                "homepage": "https://jestjs.io",
                 "id": 15062869,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:51:49Z",
+                "open_issues": 182,
                 "owner": "jestjs",
                 "repo": "jest",
-                "stars": 45474
+                "stars": 45474,
+                "topics": [
+                  "easy",
+                  "expectation",
+                  "facebook",
+                  "immersive",
+                  "javascript",
+                  "painless",
+                  "painless-javascript-testing",
+                  "snapshot",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -406,12 +721,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗃️ Centralized State Management for Vue.js.",
+                "homepage": "https://vuex.vuejs.org",
                 "id": 39176269,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-25T13:26:41Z",
+                "open_issues": 143,
                 "owner": "vuejs",
                 "repo": "vuex",
-                "stars": 28323
+                "stars": 28322,
+                "topics": [
+                  "javascript",
+                  "state-management",
+                  "time-travel",
+                  "vue",
+                  "vuex"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -422,12 +748,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚦 The official router for Vue 2",
+                "homepage": "http://v3.router.vuejs.org/",
                 "id": 15116946,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T01:14:33Z",
+                "open_issues": 125,
                 "owner": "vuejs",
                 "repo": "vue-router",
-                "stars": 18877
+                "stars": 18877,
+                "topics": [
+                  "javascript",
+                  "router",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -445,12 +780,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+                "homepage": "http://v2.vuejs.org",
                 "id": 11730342,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-10T07:24:15Z",
+                "open_issues": 636,
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210753
+                "stars": 210750,
+                "topics": [
+                  "framework",
+                  "frontend",
+                  "javascript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -461,12 +806,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+                "homepage": "https://babel.dev",
                 "id": 24560307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:39:56Z",
+                "open_issues": 777,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43985
+                "stars": 43985,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "compiler",
+                  "es2015",
+                  "es6",
+                  "flavortown",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -477,12 +835,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛠️ webpack-based tooling for Vue.js Development",
+                "homepage": "https://cli.vuejs.org/",
                 "id": 48626335,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-21T10:56:30Z",
+                "open_issues": 1070,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29546
+                "stars": 29546,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -493,12 +856,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗃️ Centralized State Management for Vue.js.",
+                "homepage": "https://vuex.vuejs.org",
                 "id": 39176269,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-25T13:26:41Z",
+                "open_issues": 143,
                 "owner": "vuejs",
                 "repo": "vuex",
-                "stars": 28323
+                "stars": 28322,
+                "topics": [
+                  "javascript",
+                  "state-management",
+                  "time-travel",
+                  "vue",
+                  "vuex"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -509,12 +883,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚦 The official router for Vue 2",
+                "homepage": "http://v3.router.vuejs.org/",
                 "id": 15116946,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T01:14:33Z",
+                "open_issues": 125,
                 "owner": "vuejs",
                 "repo": "vue-router",
-                "stars": 18877
+                "stars": 18877,
+                "topics": [
+                  "javascript",
+                  "router",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -525,12 +908,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sass makes CSS fun!",
+                "homepage": "https://sass-lang.com",
                 "id": 929845,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T00:10:32Z",
+                "open_issues": 116,
                 "owner": "sass",
                 "repo": "sass",
-                "stars": 15372
+                "stars": 15372,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -543,12 +931,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.",
+                    "homepage": null,
                     "id": 122026655,
                     "language": "SCSS",
+                    "license": null,
                     "last_commit": "2026-01-26T23:39:47Z",
+                    "open_issues": 7,
                     "owner": "bencodezen",
                     "repo": "vue-enterprise-boilerplate",
-                    "stars": 7778
+                    "stars": 7778,
+                    "topics": [
+                      "boilerplate",
+                      "frontend",
+                      "javascript",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -571,12 +969,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React-based framework with performance, scalability, and security built in.",
+                "homepage": "https://www.gatsbyjs.com",
                 "id": 36040894,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T03:41:15Z",
+                "open_issues": 437,
                 "owner": "gatsbyjs",
                 "repo": "gatsby",
-                "stars": 55941
+                "stars": 55941,
+                "topics": [
+                  "blog",
+                  "compiler",
+                  "gatsby",
+                  "graphql",
+                  "react",
+                  "static-site-generator",
+                  "web-app"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -587,12 +998,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+                "homepage": "https://styled-components.com",
                 "id": 65794292,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T23:00:26Z",
+                "open_issues": 23,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41125
+                "stars": 41125,
+                "topics": [
+                  "css",
+                  "css-in-js",
+                  "react",
+                  "reactnative",
+                  "rsc",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -610,12 +1033,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world’s fastest framework for building websites.",
+                "homepage": "https://gohugo.io",
                 "id": 11180687,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:03:10Z",
+                "open_issues": 245,
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 89570
+                "stars": 89572,
+                "topics": [
+                  "blog-engine",
+                  "cms",
+                  "content-management-system",
+                  "documentation-tool",
+                  "go",
+                  "hugo",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -626,12 +1062,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+                "homepage": "https://webpack.js.org",
                 "id": 3678731,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:57:53Z",
+                "open_issues": 131,
                 "owner": "webpack",
                 "repo": "webpack",
-                "stars": 65964
+                "stars": 65963,
+                "topics": [
+                  "amd",
+                  "build-tool",
+                  "commonjs",
+                  "compiler",
+                  "es2015",
+                  "es6",
+                  "esm",
+                  "javascript",
+                  "javascript-compiler",
+                  "javascript-modules",
+                  "loaders",
+                  "module-bundler",
+                  "plugins",
+                  "web",
+                  "web-performance",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -642,12 +1100,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+                "homepage": "https://babel.dev",
                 "id": 24560307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:39:56Z",
+                "open_issues": 777,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43985
+                "stars": 43985,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "compiler",
+                  "es2015",
+                  "es6",
+                  "flavortown",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -658,12 +1129,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transforming styles with JS plugins",
+                "homepage": "https://postcss.org",
                 "id": 13078968,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:45:38Z",
+                "open_issues": 24,
                 "owner": "postcss",
                 "repo": "postcss",
-                "stars": 28984
+                "stars": 28983,
+                "topics": [
+                  "ast",
+                  "css",
+                  "framework",
+                  "parser",
+                  "postcss"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -676,12 +1158,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+                    "homepage": null,
                     "id": 62660511,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-12-23T20:45:28Z",
+                    "open_issues": 25,
                     "owner": "netlify-templates",
                     "repo": "victor-hugo",
-                    "stars": 1508
+                    "stars": 1508,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -704,12 +1191,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+                "homepage": "https://www.typescriptlang.org",
                 "id": 20929025,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T00:01:59Z",
+                "open_issues": 5166,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110752
+                "stars": 110758,
+                "topics": [
+                  "javascript",
+                  "language",
+                  "typechecker",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -720,12 +1217,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+                "homepage": "https://mobyproject.org/",
                 "id": 7691631,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:48:22Z",
+                "open_issues": 3892,
                 "owner": "moby",
                 "repo": "moby",
-                "stars": 72011
+                "stars": 72011,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "go",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -736,12 +1243,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the full-stack Vue framework",
+                "homepage": "https://nuxt.com",
                 "id": 71995937,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T00:08:43Z",
+                "open_issues": 541,
                 "owner": "nuxt",
                 "repo": "nuxt",
-                "stars": 60804
+                "stars": 60802,
+                "topics": [
+                  "csr",
+                  "framework",
+                  "full-stack",
+                  "hacktoberfest",
+                  "hybrid",
+                  "node",
+                  "nuxt",
+                  "server-rendering",
+                  "ssg",
+                  "ssr",
+                  "static-site-generator",
+                  "universal",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -752,12 +1278,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Delightful JavaScript Testing.",
+                "homepage": "https://jestjs.io",
                 "id": 15062869,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:51:49Z",
+                "open_issues": 182,
                 "owner": "jestjs",
                 "repo": "jest",
-                "stars": 45474
+                "stars": 45474,
+                "topics": [
+                  "easy",
+                  "expectation",
+                  "facebook",
+                  "immersive",
+                  "javascript",
+                  "painless",
+                  "painless-javascript-testing",
+                  "snapshot",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -768,12 +1309,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find and fix problems in your JavaScript code.",
+                "homepage": "https://eslint.org",
                 "id": 11061773,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:03:26Z",
+                "open_issues": 141,
                 "owner": "eslint",
                 "repo": "eslint",
-                "stars": 27489
+                "stars": 27488,
+                "topics": [
+                  "ecmascript",
+                  "eslint",
+                  "javascript",
+                  "linter",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -784,12 +1336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sass makes CSS fun!",
+                "homepage": "https://sass-lang.com",
                 "id": 929845,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T00:10:32Z",
+                "open_issues": 116,
                 "owner": "sass",
                 "repo": "sass",
-                "stars": 15372
+                "stars": 15372,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -800,12 +1357,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "homepage": "https://stylelint.io",
                 "id": 27549019,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T13:43:14Z",
+                "open_issues": 134,
                 "owner": "stylelint",
                 "repo": "stylelint",
-                "stars": 11517
+                "stars": 11516,
+                "topics": [
+                  "css",
+                  "enforce-conventions",
+                  "lint",
+                  "linter",
+                  "postcss"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -818,12 +1386,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bleeding edge vue template focused on code quality and developer happiness.",
+                    "homepage": "https://wemake-services.gitbook.io/wemake-vue-template/",
                     "id": 108764849,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-07-04T12:41:28Z",
+                    "open_issues": 57,
                     "owner": "wemake-services",
                     "repo": "wemake-vue-template",
-                    "stars": 729
+                    "stars": 729,
+                    "topics": [
+                      "docker",
+                      "eslint",
+                      "jest",
+                      "jsdoc",
+                      "nuxt",
+                      "nuxtjs",
+                      "ssr",
+                      "stylelint",
+                      "typescript",
+                      "vue",
+                      "vue-template"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -846,12 +1431,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for web and native user interfaces.",
+                "homepage": "https://react.dev",
                 "id": 10270250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:10:40Z",
+                "open_issues": 1281,
                 "owner": "react",
                 "repo": "react",
-                "stars": 248011
+                "stars": 248015,
+                "topics": [
+                  "declarative",
+                  "frontend",
+                  "javascript",
+                  "library",
+                  "react",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -862,12 +1459,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The React Framework",
+                "homepage": "https://nextjs.org",
                 "id": 70107786,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T00:19:20Z",
+                "open_issues": 3638,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141976
+                "stars": 141980,
+                "topics": [
+                  "blog",
+                  "browser",
+                  "compiler",
+                  "components",
+                  "hybrid",
+                  "nextjs",
+                  "node",
+                  "react",
+                  "server-rendering",
+                  "ssg",
+                  "static",
+                  "static-site-generator",
+                  "universal",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -878,12 +1495,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+                "homepage": "https://www.typescriptlang.org",
                 "id": 20929025,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T00:01:59Z",
+                "open_issues": 5166,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110752
+                "stars": 110758,
+                "topics": [
+                  "javascript",
+                  "language",
+                  "typechecker",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -894,12 +1521,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+                "homepage": "https://babel.dev",
                 "id": 24560307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:39:56Z",
+                "open_issues": 777,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43985
+                "stars": 43985,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "compiler",
+                  "es2015",
+                  "es6",
+                  "flavortown",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -910,12 +1550,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transforming styles with JS plugins",
+                "homepage": "https://postcss.org",
                 "id": 13078968,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:45:38Z",
+                "open_issues": 24,
                 "owner": "postcss",
                 "repo": "postcss",
-                "stars": 28984
+                "stars": 28983,
+                "topics": [
+                  "ast",
+                  "css",
+                  "framework",
+                  "parser",
+                  "postcss"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -926,12 +1577,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find and fix problems in your JavaScript code.",
+                "homepage": "https://eslint.org",
                 "id": 11061773,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:03:26Z",
+                "open_issues": 141,
                 "owner": "eslint",
                 "repo": "eslint",
-                "stars": 27489
+                "stars": 27488,
+                "topics": [
+                  "ecmascript",
+                  "eslint",
+                  "javascript",
+                  "linter",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -944,12 +1606,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Nextjs Blog Boilerplate is starter code for your blog based on Next framework. ⚡️ Made with Nextjs 12, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS 3.",
+                    "homepage": "https://creativedesignsguru.com",
                     "id": 282446217,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-08-31T15:10:05Z",
+                    "open_issues": 0,
                     "owner": "ixartz",
                     "repo": "Next-js-Blog-Boilerplate",
-                    "stars": 687
+                    "stars": 687,
+                    "topics": [
+                      "boilerplate",
+                      "boilerplate-front-end",
+                      "eslint",
+                      "jamstack",
+                      "jamstack-site",
+                      "netlify",
+                      "next-js",
+                      "next-theme",
+                      "nextjs",
+                      "nextjs-starter",
+                      "starter",
+                      "starter-kit",
+                      "starter-project",
+                      "starter-template",
+                      "static-site",
+                      "static-site-generator",
+                      "static-website",
+                      "tailwind-css",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -978,12 +1665,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for web and native user interfaces.",
+                "homepage": "https://react.dev",
                 "id": 10270250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:10:40Z",
+                "open_issues": 1281,
                 "owner": "react",
                 "repo": "react",
-                "stars": 248011
+                "stars": 248015,
+                "topics": [
+                  "declarative",
+                  "frontend",
+                  "javascript",
+                  "library",
+                  "react",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -994,12 +1693,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+                "homepage": "https://nodejs.org",
                 "id": 27193779,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T23:00:22Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:08:42Z",
+                "open_issues": 1191,
                 "owner": "nodejs",
                 "repo": "node",
-                "stars": 119661
+                "stars": 119660,
+                "topics": [
+                  "javascript",
+                  "js",
+                  "linux",
+                  "macos",
+                  "mit",
+                  "node",
+                  "nodejs",
+                  "runtime",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1010,12 +1724,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, unopinionated, minimalist web framework for node.",
+                "homepage": "https://expressjs.com",
                 "id": 237159,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T21:00:02Z",
+                "open_issues": 228,
                 "owner": "expressjs",
                 "repo": "express",
-                "stars": 69401
+                "stars": 69400,
+                "topics": [
+                  "express",
+                  "javascript",
+                  "nodejs",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1026,12 +1750,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MongoDB Database",
+                "homepage": "https://www.mongodb.com/",
                 "id": 108110,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:55:46Z",
+                "open_issues": 32,
                 "owner": "mongodb",
                 "repo": "mongo",
-                "stars": 28513
+                "stars": 28513,
+                "topics": [
+                  "c-plus-plus",
+                  "database",
+                  "mongodb",
+                  "nosql"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1049,12 +1783,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a modern web app by running one command.",
+                "homepage": "https://create-react-app.dev/",
                 "id": 63537249,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280
+                "stars": 103279,
+                "topics": [
+                  "build-tools",
+                  "react",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1065,12 +1808,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development.",
+                "homepage": "https://apollographql.com/client",
                 "id": 52630616,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T02:50:11Z",
+                "open_issues": 405,
                 "owner": "apollographql",
                 "repo": "apollo-client",
-                "stars": 19812
+                "stars": 19812,
+                "topics": [
+                  "apollo-client",
+                  "apollographql",
+                  "graphql",
+                  "graphql-client",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1083,12 +1837,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example projects to help you get started with Hygraph",
+                    "homepage": "https://hygraph.com",
                     "id": 112241094,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2024-07-25T11:42:55Z",
+                    "open_issues": 26,
                     "owner": "hygraph",
                     "repo": "hygraph-examples",
-                    "stars": 618
+                    "stars": 618,
+                    "topics": [
+                      "apollo-server",
+                      "gatsby",
+                      "graphcms",
+                      "graphql",
+                      "gridsome",
+                      "nextjs",
+                      "nuxt",
+                      "nuxtjs",
+                      "react",
+                      "sapper",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -1111,12 +1882,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+                "homepage": "https://strapi.io",
                 "id": 43441403,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:44:41Z",
+                "open_issues": 545,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73031
+                "stars": 73032,
+                "topics": [
+                  "api",
+                  "cms",
+                  "cms-framework",
+                  "content-management",
+                  "content-management-system",
+                  "customizable",
+                  "dashboard",
+                  "graphql",
+                  "hacktoberfest",
+                  "headless-cms",
+                  "jamstack",
+                  "javascript",
+                  "mysql",
+                  "no-code",
+                  "nodejs",
+                  "posgresql",
+                  "rest",
+                  "strapi",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1127,12 +1923,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React-based framework with performance, scalability, and security built in.",
+                "homepage": "https://www.gatsbyjs.com",
                 "id": 36040894,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T03:41:15Z",
+                "open_issues": 437,
                 "owner": "gatsbyjs",
                 "repo": "gatsby",
-                "stars": 55941
+                "stars": 55941,
+                "topics": [
+                  "blog",
+                  "compiler",
+                  "gatsby",
+                  "graphql",
+                  "react",
+                  "static-site-generator",
+                  "web-app"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1150,12 +1959,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ Libraries for building performant and instant search and and discovery experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.",
+                "homepage": "https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/",
                 "id": 39443258,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:43:48Z",
+                "open_issues": 225,
                 "owner": "algolia",
                 "repo": "instantsearch",
-                "stars": 4056
+                "stars": 4056,
+                "topics": [
+                  "algolia",
+                  "instantsearch",
+                  "react",
+                  "recommend",
+                  "search",
+                  "vanilla",
+                  "vue",
+                  "widgets"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1166,12 +1989,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DocSearch - Scraper",
+                "homepage": "https://docsearch.algolia.com/",
                 "id": 43568573,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-24T13:50:10Z",
+                "open_issues": 23,
                 "owner": "algolia",
                 "repo": "docsearch-scraper",
-                "stars": 321
+                "stars": 321,
+                "topics": [
+                  "algolia",
+                  "docsearch",
+                  "documentation",
+                  "scraper"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1182,12 +2015,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin to push to Algolia based on graphQl queries",
+                "homepage": "https://yarn.pm/gatsby-plugin-algolia",
                 "id": 106009477,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-02T10:08:56Z",
+                "open_issues": 11,
                 "owner": "algolia",
                 "repo": "gatsby-plugin-algolia",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "algolia",
+                  "gatsby",
+                  "graphql",
+                  "hacktoberfest",
+                  "search",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1198,12 +2043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enables search with Algolia in Hugo static sites",
+                "homepage": null,
                 "id": 97770242,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-08-21T00:36:06Z",
+                "open_issues": 16,
                 "owner": "replicatedhq",
                 "repo": "hugo-algolia",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1221,12 +2071,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+                "homepage": "http://v2.vuejs.org",
                 "id": 11730342,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-10T07:24:15Z",
+                "open_issues": 636,
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210753
+                "stars": 210750,
+                "topics": [
+                  "framework",
+                  "frontend",
+                  "javascript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1237,12 +2097,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+                "homepage": "https://nodejs.org",
                 "id": 27193779,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T23:00:22Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:08:42Z",
+                "open_issues": 1191,
                 "owner": "nodejs",
                 "repo": "node",
-                "stars": 119661
+                "stars": 119660,
+                "topics": [
+                  "javascript",
+                  "js",
+                  "linux",
+                  "macos",
+                  "mit",
+                  "node",
+                  "nodejs",
+                  "runtime",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1253,12 +2128,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, unopinionated, minimalist web framework for node.",
+                "homepage": "https://expressjs.com",
                 "id": 237159,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T21:00:02Z",
+                "open_issues": 228,
                 "owner": "expressjs",
                 "repo": "express",
-                "stars": 69401
+                "stars": 69400,
+                "topics": [
+                  "express",
+                  "javascript",
+                  "nodejs",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1269,12 +2154,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MongoDB Database",
+                "homepage": "https://www.mongodb.com/",
                 "id": 108110,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:55:46Z",
+                "open_issues": 32,
                 "owner": "mongodb",
                 "repo": "mongo",
-                "stars": 28513
+                "stars": 28513,
+                "topics": [
+                  "c-plus-plus",
+                  "database",
+                  "mongodb",
+                  "nosql"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1292,12 +2187,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for web and native user interfaces.",
+                "homepage": "https://react.dev",
                 "id": 10270250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:10:40Z",
+                "open_issues": 1281,
                 "owner": "react",
                 "repo": "react",
-                "stars": 248011
+                "stars": 248015,
+                "topics": [
+                  "declarative",
+                  "frontend",
+                  "javascript",
+                  "library",
+                  "react",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1308,12 +2215,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby on Rails",
+                "homepage": "https://rubyonrails.org",
                 "id": 8514,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T18:53:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:44:47Z",
+                "open_issues": 1606,
                 "owner": "rails",
                 "repo": "rails",
-                "stars": 58729
+                "stars": 58729,
+                "topics": [
+                  "activejob",
+                  "activerecord",
+                  "framework",
+                  "html",
+                  "mvc",
+                  "rails",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1324,12 +2244,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development.",
+                "homepage": "https://apollographql.com/client",
                 "id": 52630616,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T02:50:11Z",
+                "open_issues": 405,
                 "owner": "apollographql",
                 "repo": "apollo-client",
-                "stars": 19812
+                "stars": 19812,
+                "topics": [
+                  "apollo-client",
+                  "apollographql",
+                  "graphql",
+                  "graphql-client",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1340,12 +2271,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby implementation of GraphQL ",
+                "homepage": "http://graphql-ruby.org",
                 "id": 30337170,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:28:18Z",
+                "open_issues": 63,
                 "owner": "rmosolgo",
                 "repo": "graphql-ruby",
-                "stars": 5443
+                "stars": 5443,
+                "topics": [
+                  "graphql",
+                  "graphql-ruby",
+                  "hacktoberfest",
+                  "rails",
+                  "relay",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1363,12 +2306,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a modern web app by running one command.",
+                "homepage": "https://create-react-app.dev/",
                 "id": 63537249,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280
+                "stars": 103279,
+                "topics": [
+                  "build-tools",
+                  "react",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1379,12 +2331,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.",
+                "homepage": "https://serverless.com",
                 "id": 34302698,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:26:45Z",
+                "open_issues": 1216,
                 "owner": "serverless",
                 "repo": "serverless",
-                "stars": 46917
+                "stars": 46917,
+                "topics": [
+                  "aws",
+                  "aws-dynamodb",
+                  "aws-lambda",
+                  "azure-functions",
+                  "google-cloud-functions",
+                  "microservice",
+                  "serverless",
+                  "serverless-architectures",
+                  "serverless-framework"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1402,12 +2369,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for web and native user interfaces.",
+                "homepage": "https://react.dev",
                 "id": 10270250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:10:40Z",
+                "open_issues": 1281,
                 "owner": "react",
                 "repo": "react",
-                "stars": 248011
+                "stars": 248015,
+                "topics": [
+                  "declarative",
+                  "frontend",
+                  "javascript",
+                  "library",
+                  "react",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1418,12 +2397,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+                "homepage": "https://electronjs.org",
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-29T00:00:27Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:56:12Z",
+                "open_issues": 753,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122773
+                "stars": 122775,
+                "topics": [
+                  "c-plus-plus",
+                  "chrome",
+                  "css",
+                  "electron",
+                  "html",
+                  "javascript",
+                  "nodejs",
+                  "v8",
+                  "works-with-codespaces"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1434,12 +2428,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JS library for predictable global state management",
+                "homepage": "https://redux.js.org",
                 "id": 36535156,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T02:41:39Z",
+                "open_issues": 49,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509
+                "stars": 61508,
+                "topics": [
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1450,12 +2451,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box",
+                "homepage": "https://www.electron.build",
                 "id": 35998691,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:54:27Z",
+                "open_issues": 73,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14655
+                "stars": 14655,
+                "topics": [
+                  "appx",
+                  "auto-update",
+                  "builder",
+                  "contributions-welcome",
+                  "deb",
+                  "distribution-electron",
+                  "dmg",
+                  "electron",
+                  "electron-builder",
+                  "electron-updater",
+                  "help-wanted",
+                  "linux",
+                  "macos",
+                  "msi",
+                  "muon",
+                  "nsis",
+                  "pkg",
+                  "rpm",
+                  "snap",
+                  "squirrel"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1473,12 +2500,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+                "homepage": "http://v2.vuejs.org",
                 "id": 11730342,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-10T07:24:15Z",
+                "open_issues": 636,
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210753
+                "stars": 210750,
+                "topics": [
+                  "framework",
+                  "frontend",
+                  "javascript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1489,12 +2526,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+                "homepage": "https://electronjs.org",
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-29T00:00:27Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:56:12Z",
+                "open_issues": 753,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122773
+                "stars": 122775,
+                "topics": [
+                  "c-plus-plus",
+                  "chrome",
+                  "css",
+                  "electron",
+                  "html",
+                  "javascript",
+                  "nodejs",
+                  "v8",
+                  "works-with-codespaces"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1505,12 +2557,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JS library for predictable global state management",
+                "homepage": "https://redux.js.org",
                 "id": 36535156,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T02:41:39Z",
+                "open_issues": 49,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509
+                "stars": 61508,
+                "topics": [
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1521,12 +2580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛠️ webpack-based tooling for Vue.js Development",
+                "homepage": "https://cli.vuejs.org/",
                 "id": 48626335,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-21T10:56:30Z",
+                "open_issues": 1070,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29546
+                "stars": 29546,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1537,12 +2601,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚦 The official router for Vue 2",
+                "homepage": "http://v3.router.vuejs.org/",
                 "id": 15116946,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T01:14:33Z",
+                "open_issues": 125,
                 "owner": "vuejs",
                 "repo": "vue-router",
-                "stars": 18877
+                "stars": 18877,
+                "topics": [
+                  "javascript",
+                  "router",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1553,12 +2626,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box",
+                "homepage": "https://www.electron.build",
                 "id": 35998691,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:54:27Z",
+                "open_issues": 73,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14655
+                "stars": 14655,
+                "topics": [
+                  "appx",
+                  "auto-update",
+                  "builder",
+                  "contributions-welcome",
+                  "deb",
+                  "distribution-electron",
+                  "dmg",
+                  "electron",
+                  "electron-builder",
+                  "electron-updater",
+                  "help-wanted",
+                  "linux",
+                  "macos",
+                  "msi",
+                  "muon",
+                  "nsis",
+                  "pkg",
+                  "rpm",
+                  "snap",
+                  "squirrel"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1576,12 +2675,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+                "homepage": "http://v2.vuejs.org",
                 "id": 11730342,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-10T07:24:15Z",
+                "open_issues": 636,
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210753
+                "stars": 210750,
+                "topics": [
+                  "framework",
+                  "frontend",
+                  "javascript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1592,12 +2701,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+                "homepage": "https://laravel.com",
                 "id": 1863329,
                 "language": "Blade",
+                "license": null,
                 "last_commit": "2026-08-25T16:27:45Z",
+                "open_issues": 31,
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84887
+                "stars": 84886,
+                "topics": [
+                  "framework",
+                  "laravel",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1608,12 +2726,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+                "homepage": "https://babel.dev",
                 "id": 24560307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:39:56Z",
+                "open_issues": 777,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43985
+                "stars": 43985,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "compiler",
+                  "es2015",
+                  "es6",
+                  "flavortown",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1624,12 +2755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The PHP Interpreter",
+                "homepage": "https://www.php.net",
                 "id": 1903522,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T16:25:56Z",
+                "open_issues": 2013,
                 "owner": "php",
                 "repo": "php-src",
-                "stars": 40329
+                "stars": 40331,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1640,12 +2776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sass makes CSS fun!",
+                "homepage": "https://sass-lang.com",
                 "id": 929845,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T00:10:32Z",
+                "open_issues": 116,
                 "owner": "sass",
                 "repo": "sass",
-                "stars": 15372
+                "stars": 15372,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1656,12 +2797,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The power of webpack, distilled for the rest of us.",
+                "homepage": null,
                 "id": 76991633,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-24T20:48:29Z",
+                "open_issues": 271,
                 "owner": "laravel-mix",
                 "repo": "laravel-mix",
-                "stars": 5220
+                "stars": 5220,
+                "topics": [
+                  "laravel",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1679,12 +2828,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for web and native user interfaces.",
+                "homepage": "https://react.dev",
                 "id": 10270250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:10:40Z",
+                "open_issues": 1281,
                 "owner": "react",
                 "repo": "react",
-                "stars": 248011
+                "stars": 248015,
+                "topics": [
+                  "declarative",
+                  "frontend",
+                  "javascript",
+                  "library",
+                  "react",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1695,12 +2856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Python programming language",
+                "homepage": "https://www.python.org",
                 "id": 81598961,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:37:43Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:37:46Z",
+                "open_issues": 9625,
                 "owner": "python",
                 "repo": "cpython",
-                "stars": 75023
+                "stars": 75028,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1711,12 +2877,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Python micro framework for building web applications.",
+                "homepage": "https://flask.palletsprojects.com",
                 "id": 596892,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-16T18:35:35Z",
+                "open_issues": 3,
                 "owner": "pallets",
                 "repo": "flask",
-                "stars": 72144
+                "stars": 72143,
+                "topics": [
+                  "flask",
+                  "jinja",
+                  "pallets",
+                  "python",
+                  "web-framework",
+                  "werkzeug",
+                  "wsgi"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1727,12 +2906,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MongoDB Database",
+                "homepage": "https://www.mongodb.com/",
                 "id": 108110,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:55:46Z",
+                "open_issues": 32,
                 "owner": "mongodb",
                 "repo": "mongo",
-                "stars": 28513
+                "stars": 28513,
+                "topics": [
+                  "c-plus-plus",
+                  "database",
+                  "mongodb",
+                  "nosql"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1745,12 +2934,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Boilerplate for a minimal fremp stack app",
+                    "homepage": "https://fremp.github.io",
                     "id": 281851888,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2020-07-30T11:41:27Z",
+                    "open_issues": 0,
                     "owner": "FReMP",
                     "repo": "fremp",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "flask",
+                      "fremp",
+                      "mongodb",
+                      "python",
+                      "reactjs"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -1779,12 +2979,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production-Grade Container Scheduling and Management",
+                "homepage": "https://kubernetes.io",
                 "id": 20580498,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:04:04Z",
+                "open_issues": 2978,
                 "owner": "kubernetes",
                 "repo": "kubernetes",
-                "stars": 125325
+                "stars": 125327,
+                "topics": [
+                  "cncf",
+                  "containers",
+                  "go",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1795,12 +3005,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+                "homepage": "https://mobyproject.org/",
                 "id": 7691631,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:48:22Z",
+                "open_issues": 3892,
                 "owner": "moby",
                 "repo": "moby",
-                "stars": 72011
+                "stars": 72011,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "go",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1818,12 +3038,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solidity, the Smart Contract Programming Language",
+                "homepage": "https://soliditylang.org",
                 "id": 40892817,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T21:18:21Z",
+                "open_issues": 801,
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25717
+                "stars": 25717,
+                "topics": [
+                  "blockchain",
+                  "cpp",
+                  "ethereum",
+                  "hacktoberfest",
+                  "language",
+                  "programming-language",
+                  "smartcontracts",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1834,12 +3068,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.",
+                "homepage": "https://web3js.org/",
                 "id": 24655114,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-05T08:48:59Z",
+                "open_issues": 144,
                 "owner": "web3",
                 "repo": "web3.js",
-                "stars": 19916
+                "stars": 19916,
+                "topics": [
+                  "abi-decoders",
+                  "abi-encoders",
+                  "api",
+                  "ethereum",
+                  "javascript",
+                  "typescript",
+                  "web3",
+                  "web3js"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1850,12 +3098,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.",
+                "homepage": "https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat?utm_source=github&utm_medium=referral&utm_campaign=2023_Sep_truffle-sunset-2023_announcement_",
                 "id": 38267641,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-22T08:47:19Z",
+                "open_issues": 527,
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13915
+                "stars": 13915,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "framework",
+                  "hacktoberfest",
+                  "javascript",
+                  "smart-contract-tools",
+                  "smart-contracts",
+                  "solidity",
+                  "truffle"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1866,12 +3129,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.",
+                "homepage": "https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat?utm_source=github&utm_medium=referral&utm_campaign=2023_Sep_truffle-sunset-2023_announcement_",
                 "id": 86362151,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-29T22:09:03Z",
+                "open_issues": 412,
                 "owner": "ConsenSys-archive",
                 "repo": "ganache",
-                "stars": 2627
+                "stars": 2627,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "ganache"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1882,12 +3154,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reactive Ethereum dapp UI suite",
+                "homepage": null,
                 "id": 197872600,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-24T06:13:32Z",
+                "open_issues": 90,
                 "owner": "ConsenSys-archive",
                 "repo": "drizzle",
-                "stars": 890
+                "stars": 890,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1898,12 +3177,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DB3 Network Javascript API",
+                "homepage": "https://dbpunk-labs.github.io/db3.js/",
                 "id": 584620577,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-01T01:05:25Z",
+                "open_issues": 3,
                 "owner": "dbpunk-labs",
                 "repo": "db3.js",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "dapp",
+                  "document",
+                  "firebase",
+                  "html",
+                  "indexeddb",
+                  "javascript",
+                  "json",
+                  "npm",
+                  "typescript",
+                  "web3",
+                  "web3js",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1921,12 +3218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Profiler for your development and production Ruby rack apps. ",
+                "homepage": null,
                 "id": 12656803,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-21T06:05:15Z",
+                "open_issues": 38,
                 "owner": "MiniProfiler",
                 "repo": "rack-mini-profiler",
-                "stars": 3905
+                "stars": 3905,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -1944,12 +3246,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+                "homepage": "https://spark.apache.org/",
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-28T23:23:47Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:45:28Z",
+                "open_issues": 497,
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 43901
+                "stars": 43900,
+                "topics": [
+                  "big-data",
+                  "java",
+                  "jdbc",
+                  "python",
+                  "r",
+                  "scala",
+                  "spark",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1960,12 +3276,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Kafka - A distributed event streaming platform",
+                "homepage": "https://kafka.apache.org/",
                 "id": 2211243,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:41:09Z",
+                "open_issues": 516,
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33639
+                "stars": 33638,
+                "topics": [
+                  "java",
+                  "kafka",
+                  "scala",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1976,12 +3302,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+                "homepage": "https://cassandra.apache.org/",
                 "id": 206424,
                 "language": "Java",
-                "last_commit": "2026-08-28T06:11:58Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:25:15Z",
+                "open_issues": 474,
                 "owner": "apache",
                 "repo": "cassandra",
-                "stars": 10085
+                "stars": 10085,
+                "topics": [
+                  "cassandra",
+                  "database",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -1994,12 +3329,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Docker container for Kafka - Spark Streaming - Cassandra",
+                    "homepage": null,
                     "id": 59815411,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2019-06-17T11:17:09Z",
+                    "open_issues": 4,
                     "owner": "Yannael",
                     "repo": "kafka-sparkstreaming-cassandra",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -2022,12 +3362,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+                "homepage": "https://metabase.com",
                 "id": 30203935,
                 "language": "Clojure",
-                "last_commit": "2026-08-29T00:36:17Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:07:28Z",
+                "open_issues": 4456,
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 48981
+                "stars": 48981,
+                "topics": [
+                  "analytics",
+                  "bi",
+                  "business-intelligence",
+                  "businessintelligence",
+                  "clojure",
+                  "dashboard",
+                  "data",
+                  "data-analysis",
+                  "data-visualization",
+                  "database",
+                  "metabase",
+                  "mysql",
+                  "postgres",
+                  "postgresql",
+                  "reporting",
+                  "slack",
+                  "sql-editor",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2038,12 +3402,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Developer-first error tracking and performance monitoring",
+                "homepage": "https://sentry.io",
                 "id": 873328,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:32:22Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:35:09Z",
+                "open_issues": 2243,
                 "owner": "getsentry",
                 "repo": "sentry",
-                "stars": 44641
+                "stars": 44644,
+                "topics": [
+                  "apm",
+                  "crash-reporting",
+                  "crash-reports",
+                  "csp-report",
+                  "devops",
+                  "django",
+                  "error-logging",
+                  "error-monitoring",
+                  "fair-source",
+                  "hacktoberfest",
+                  "monitor",
+                  "monitoring",
+                  "python",
+                  "sentry",
+                  "tag-production"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2054,12 +3439,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+                "homepage": "https://zulip.com",
                 "id": 43160685,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:24:40Z",
+                "open_issues": 2049,
                 "owner": "zulip",
                 "repo": "zulip",
-                "stars": 25785
+                "stars": 25785,
+                "topics": [
+                  "apache",
+                  "chat",
+                  "collaboration",
+                  "electron",
+                  "foss",
+                  "free",
+                  "javascript",
+                  "python",
+                  "python3",
+                  "react-native",
+                  "slack",
+                  "zulip"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2070,12 +3473,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+                "homepage": "https://about.gitlab.com/getting-help/",
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-29T00:12:42Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:07:45Z",
+                "open_issues": 36,
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
-                "stars": 24546
+                "stars": 24546,
+                "topics": [
+                  "gitlab",
+                  "rails",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2086,12 +3498,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A customizable life embetterment robot.",
+                "homepage": "https://hubotio.github.io/hubot/",
                 "id": 2278524,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-22T14:58:48Z",
+                "open_issues": 6,
                 "owner": "hubotio",
                 "repo": "hubot",
-                "stars": 16799
+                "stars": 16799,
+                "topics": [
+                  "bot",
+                  "chat",
+                  "hubot"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -2109,12 +3530,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Web framework for perfectionists with deadlines.",
+                "homepage": "https://www.djangoproject.com/",
                 "id": 4164482,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T21:49:05Z",
+                "open_issues": 479,
                 "owner": "django",
                 "repo": "django",
-                "stars": 89028
+                "stars": 89029,
+                "topics": [
+                  "apps",
+                  "django",
+                  "framework",
+                  "models",
+                  "orm",
+                  "python",
+                  "templates",
+                  "views",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2125,12 +3561,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+                "homepage": "https://caddyserver.com",
                 "id": 29207621,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:37:01Z",
+                "open_issues": 267,
                 "owner": "caddyserver",
                 "repo": "caddy",
-                "stars": 75296
+                "stars": 75303,
+                "topics": [
+                  "acme",
+                  "automatic-https",
+                  "caddy",
+                  "caddyfile",
+                  "go",
+                  "golang",
+                  "http",
+                  "http-server",
+                  "http3",
+                  "https",
+                  "privacy",
+                  "reverse-proxy",
+                  "security",
+                  "tls",
+                  "web-server"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2141,12 +3598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Python programming language",
+                "homepage": "https://www.python.org",
                 "id": 81598961,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:37:43Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:37:46Z",
+                "open_issues": 9625,
                 "owner": "python",
                 "repo": "cpython",
-                "stars": 75023
+                "stars": 75028,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2157,12 +3619,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+                "homepage": "https://mobyproject.org/",
                 "id": 7691631,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:48:22Z",
+                "open_issues": 3892,
                 "owner": "moby",
                 "repo": "moby",
-                "stars": 72011
+                "stars": 72011,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "go",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2173,12 +3645,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+                "homepage": "https://about.gitlab.com/getting-help/",
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-29T00:12:42Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:07:45Z",
+                "open_issues": 36,
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
-                "stars": 24546
+                "stars": 24546,
+                "topics": [
+                  "gitlab",
+                  "rails",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2191,12 +3672,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bleeding edge django template focused on code quality and security.",
+                    "homepage": "https://wemake-services.github.io/wemake-django-template/",
                     "id": 103513062,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T05:45:37Z",
+                    "open_issues": 21,
                     "owner": "wemake-services",
                     "repo": "wemake-django-template",
-                    "stars": 2269
+                    "stars": 2269,
+                    "topics": [
+                      "caddy",
+                      "cookiecutter",
+                      "cookiecutter-template",
+                      "django",
+                      "docker",
+                      "gitlab-ci",
+                      "mypy",
+                      "pytest",
+                      "python",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:22.790Z"
                 }
@@ -2219,12 +3716,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+                "homepage": "https://spring.io/projects/spring-boot",
                 "id": 6296790,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:54:18Z",
+                "open_issues": 488,
                 "owner": "spring-projects",
                 "repo": "spring-boot",
-                "stars": 81376
+                "stars": 81376,
+                "topics": [
+                  "framework",
+                  "java",
+                  "spring",
+                  "spring-boot"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2235,12 +3742,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adaptable, fast automation for all",
+                "homepage": "https://gradle.org",
                 "id": 302322,
                 "language": "Groovy",
-                "last_commit": "2026-08-28T23:35:04Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:29:27Z",
+                "open_issues": 3460,
                 "owner": "gradle",
                 "repo": "gradle",
-                "stars": 18806
+                "stars": 18807,
+                "topics": [
+                  "build-tool",
+                  "good-first-issue",
+                  "gradle",
+                  "gradle-bt",
+                  "groovy",
+                  "java",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -2258,12 +3778,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for web and native user interfaces.",
+                "homepage": "https://react.dev",
                 "id": 10270250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:10:40Z",
+                "open_issues": 1281,
                 "owner": "react",
                 "repo": "react",
-                "stars": 248011
+                "stars": 248015,
+                "topics": [
+                  "declarative",
+                  "frontend",
+                  "javascript",
+                  "library",
+                  "react",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2274,12 +3806,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn multiple data sources into a single GraphQL API",
+                "homepage": "https://graphweaver.com",
                 "id": 527419450,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T17:05:51Z",
+                "open_issues": 19,
                 "owner": "exogee-technology",
                 "repo": "graphweaver",
-                "stars": 553
+                "stars": 553,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -2303,12 +3840,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for building native applications using React",
+                "homepage": "https://reactnative.dev",
                 "id": 29028775,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:53:52Z",
+                "open_issues": 1102,
                 "owner": "react",
                 "repo": "react-native",
-                "stars": 126443
+                "stars": 126447,
+                "topics": [
+                  "android",
+                  "app-framework",
+                  "cross-platform",
+                  "ios",
+                  "mobile",
+                  "mobile-development",
+                  "react",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2319,12 +3870,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+                "homepage": "https://docs.expo.dev",
                 "id": 65750241,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T22:20:41Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:13:05Z",
+                "open_issues": 753,
                 "owner": "expo",
                 "repo": "expo",
-                "stars": 51877
+                "stars": 51883,
+                "topics": [
+                  "android",
+                  "app-framework",
+                  "expo",
+                  "framework",
+                  "frontend",
+                  "ios",
+                  "javascript",
+                  "mobile",
+                  "native",
+                  "native-apps",
+                  "react",
+                  "react-native",
+                  "typescript",
+                  "universal",
+                  "web",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2335,12 +3908,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.",
+                "homepage": "https://hasura.io",
                 "id": 137724480,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T16:56:27Z",
+                "open_issues": 2374,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32104
+                "stars": 32104,
+                "topics": [
+                  "access-control",
+                  "api",
+                  "automatic-api",
+                  "bigquery",
+                  "graphql",
+                  "graphql-api",
+                  "graphql-server",
+                  "haskell",
+                  "hasura",
+                  "mongodb",
+                  "postgres",
+                  "rest-api",
+                  "sql-server",
+                  "subgraph",
+                  "supergraph"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -2358,12 +3952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unity C# reference source code.",
+                "homepage": null,
                 "id": 126486701,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T05:52:05Z",
+                "open_issues": 19,
                 "owner": "Unity-Technologies",
                 "repo": "UnityCsReference",
-                "stars": 12970
+                "stars": 12970,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             },
@@ -2374,12 +3973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A docker image for PlasticSCM",
+                "homepage": null,
                 "id": 29481139,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2020-10-09T06:28:06Z",
+                "open_issues": 1,
                 "owner": "PlasticSCM",
                 "repo": "plastic-docker",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -2397,12 +4001,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jenkins automation server",
+                "homepage": "https://www.jenkins.io",
                 "id": 1103607,
                 "language": "Java",
-                "last_commit": "2026-08-27T19:36:15Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:39:56Z",
+                "open_issues": 3612,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26513
+                "stars": 26513,
+                "topics": [
+                  "cicd",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "devops",
+                  "groovy",
+                  "hacktoberfest",
+                  "java",
+                  "jenkins",
+                  "pipelines-as-code"
+                ]
               },
               "first_seen": "2026-08-29T00:36:22.790Z"
             }
@@ -2416,15 +4036,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:36:22.790Z",
+    "last_updated": "2026-08-29T04:17:57.945Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of tech stacks for building different applications & features",
+      "homepage": "https://awesomestacks.dev",
       "id": 174027707,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2024-03-08T13:22:21Z",
+      "open_issues": 13,
       "owner": "stackshareio",
       "repo": "awesome-stacks",
-      "stars": 3918
+      "stars": 3918,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "full-stack",
+        "mobile",
+        "stacks",
+        "tech-stacks",
+        "web"
+      ]
     },
     "original_repository_sha": "70c81c220f254b9ca37cc5692cb29bafac306768",
     "enhanced_repository": "enhansome/enhansome-stacks",
