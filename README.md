@@ -38,11 +38,11 @@ Stacks can be browsed in two places—on the README and on [awesomestacks.dev](h
 
 A basis for reducing the configuration of your projects with Next.js, best development practices and popular libraries in the developer community.
 
-* [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙](https://github.com/zeit/next.js) ⭐ 142,076 | 🐛 3,309 | 🌐 JavaScript | 📅 2026-09-03 - The React Framework for server rendering, static websites, PWAs.
+* [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙](https://github.com/zeit/next.js) ⭐ 142,094 | 🐛 3,275 | 🌐 JavaScript | 📅 2026-09-04 - The React Framework for server rendering, static websites, PWAs.
 * [Redux Saga](https://redux-saga.js.org/) - [🐙](https://github.com/redux-saga/redux-saga) ⭐ 22,423 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-23 - is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures.
 * [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - [🛠](https://stackshare.io/react-testing-library) - [🐙](https://github.com/testing-library/react-testing-library) ⭐ 19,646 | 🐛 82 | 🌐 JavaScript | 📅 2026-08-27 - react-testing-library is a tool in the Testing Frameworks category of a tech stack.
 * [Emotion](https://emotion.sh/) - [🛠](https://stackshare.io/emotion) - [🐙](https://github.com/emotion-js/emotion) ⭐ 18,021 | 🐛 393 | 🌐 JavaScript | 📅 2026-08-28 - CSS-in-JS library designed for high performance style composition.
-* [I18next](https://www.i18next.com/) - [🐙](https://github.com/i18next/i18next) ⭐ 8,624 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-02 - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
+* [I18next](https://www.i18next.com/) - [🐙](https://github.com/i18next/i18next) ⭐ 8,625 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-03 - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
 
 ##### Resources
 
@@ -52,25 +52,25 @@ A basis for reducing the configuration of your projects with Next.js, best devel
 
 React Starter Kit is an opinionated boilerplate for web development built on top of Node.js, Express, GraphQL and React, containing modern web development tools such as Webpack, Babel and Browsersync.
 
-* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,051 | 🐛 1,334 | 🌐 JavaScript | 📅 2026-09-03 - React components can be used on the client and server side.
-* [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙](https://github.com/nodejs/node) ⭐ 120,607 | 🐛 1,189 | 🌐 JavaScript | 📅 2026-09-03 - A JavaScript runtime built on Chrome's V8 JavaScript engine.
-* [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙](https://github.com/expressjs/express) ⭐ 69,417 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-01 - A minimal and flexible Node.js web application framework.
-* [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙](https://github.com/webpack/webpack) ⭐ 65,961 | 🐛 142 | 🌐 JavaScript | 📅 2026-09-03 - A static module bundler for modern JavaScript applications.
-* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,988 | 🐛 776 | 🌐 TypeScript | 📅 2026-09-03 - A JavaScript compiler; use next generation JavaScript, today.
-* [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙](https://github.com/graphql/graphql-js) ⭐ 20,343 | 🐛 99 | 🌐 TypeScript | 📅 2026-09-03 - A query language for APIs and a runtime for fulfilling those queries with your existing data.
+* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,075 | 🐛 1,339 | 🌐 JavaScript | 📅 2026-09-04 - React components can be used on the client and server side.
+* [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙](https://github.com/nodejs/node) ⭐ 120,622 | 🐛 1,199 | 🌐 JavaScript | 📅 2026-09-04 - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙](https://github.com/expressjs/express) ⭐ 69,420 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-01 - A minimal and flexible Node.js web application framework.
+* [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙](https://github.com/webpack/webpack) ⭐ 65,961 | 🐛 132 | 🌐 JavaScript | 📅 2026-09-04 - A static module bundler for modern JavaScript applications.
+* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,990 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-04 - A JavaScript compiler; use next generation JavaScript, today.
+* [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙](https://github.com/graphql/graphql-js) ⭐ 20,343 | 🐛 100 | 🌐 TypeScript | 📅 2026-09-04 - A query language for APIs and a runtime for fulfilling those queries with your existing data.
 
 ##### Resources
 
-* [react-starter-kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,673 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-31
+* [react-starter-kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,675 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-31
 
 ### React Firebase starter [↗](https://awesomestacks.dev/react-firebase-starter)
 
 React Starter Kit for Firebase is a popular project template (aka, boilerplate) for building modern, scalable web applications with React, Relay, and GraphQL using serverless infrastructure provided by Google Cloud (Cloud SQL, Cloud Functions, CDN hosting, and file storage).
 
-* [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙](https://github.com/facebook/create-react-app) ⭐ 103,270 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15 - Set up a modern web app by running one command.
-* [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙](https://github.com/mui-org/material-ui) ⭐ 98,999 | 🐛 1,473 | 🌐 JavaScript | 📅 2026-09-03 - React components that implement Google's Material Design.
-* [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙](https://github.com/graphql/graphql-js) ⭐ 20,343 | 🐛 99 | 🌐 TypeScript | 📅 2026-09-03 - A query language for APIs and a runtime for fulfilling those queries with your existing data.
-* [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙](https://github.com/facebook/relay) ⭐ 18,963 | 🐛 862 | 🌐 Rust | 📅 2026-09-03 - A JavaScript framework for building data-driven React applications.
+* [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙](https://github.com/facebook/create-react-app) ⭐ 103,271 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15 - Set up a modern web app by running one command.
+* [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙](https://github.com/mui-org/material-ui) ⭐ 99,010 | 🐛 1,473 | 🌐 JavaScript | 📅 2026-09-04 - React components that implement Google's Material Design.
+* [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙](https://github.com/graphql/graphql-js) ⭐ 20,343 | 🐛 100 | 🌐 TypeScript | 📅 2026-09-04 - A query language for APIs and a runtime for fulfilling those queries with your existing data.
+* [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙](https://github.com/facebook/relay) ⭐ 18,963 | 🐛 862 | 🌐 Rust | 📅 2026-09-04 - A JavaScript framework for building data-driven React applications.
 * [Firebase](https://firebase.google.com/) - [🛠️](https://stackshare.io/firebase) - A cloud-hosted NoSQL database that lets you store and sync data between your users in real-time.
 
 ##### Resources
@@ -81,10 +81,10 @@ React Starter Kit for Firebase is a popular project template (aka, boilerplate) 
 
 The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices.
 
-* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,625 | 🐛 636 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
-* [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙](https://github.com/Microsoft/TypeScript) ⭐ 110,873 | 🐛 5,140 | 🌐 Go | 📅 2026-09-03 - A typed superset of JavaScript that compiles to plain JavaScript.
-* [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙](https://github.com/prettier/prettier) ⭐ 52,233 | 🐛 1,417 | 🌐 JavaScript | 📅 2026-09-03 - An opinionated code formatter.
-* [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙](https://github.com/facebook/jest) ⭐ 45,471 | 🐛 188 | 🌐 TypeScript | 📅 2026-09-03 - A comprehensive, delightful JavaScript testing solution.
+* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,628 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
+* [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙](https://github.com/Microsoft/TypeScript) ⭐ 110,891 | 🐛 5,127 | 🌐 Go | 📅 2026-09-04 - A typed superset of JavaScript that compiles to plain JavaScript.
+* [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙](https://github.com/prettier/prettier) ⭐ 52,241 | 🐛 1,418 | 🌐 JavaScript | 📅 2026-09-04 - An opinionated code formatter.
+* [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙](https://github.com/facebook/jest) ⭐ 45,474 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-03 - A comprehensive, delightful JavaScript testing solution.
 * [Vuex](https://vuex.vuejs.org/) - [🐙](https://github.com/vuejs/vuex) ⭐ 28,316 | 🐛 143 | 🌐 JavaScript | 📅 2024-09-25 - Centralized State Management for Vue.js.
 * [Vue Router](https://router.vuejs.org/) - [🐙](https://github.com/vuejs/vue-router) ⭐ 18,872 | 🐛 125 | 🌐 JavaScript | 📅 2026-04-14 - Vue Router is the official router for Vue.js.
 
@@ -96,12 +96,12 @@ The most complete boilerplate for production-ready PWAs. With focus on performan
 
 An ever-evolving and opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
-* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,625 | 🐛 636 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
-* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,988 | 🐛 776 | 🌐 TypeScript | 📅 2026-09-03 - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
-* [Vue CLI](https://cli.vuejs.org/) - [🐙](https://github.com/vuejs/vue-cli) ⭐ 29,544 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21 - An approachable core library that focuses on the view layer only.
+* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,628 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
+* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,990 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-04 - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
+* [Vue CLI](https://cli.vuejs.org/) - [🐙](https://github.com/vuejs/vue-cli) ⭐ 29,544 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21 - An approachable core library that focuses on the view layer only.
 * [Vuex](https://vuex.vuejs.org/) - [🐙](https://github.com/vuejs/vuex) ⭐ 28,316 | 🐛 143 | 🌐 JavaScript | 📅 2024-09-25 - Centralized State Management for Vue.js.
 * [Vue Router](https://router.vuejs.org/) - [🐙](https://github.com/vuejs/vue-router) ⭐ 18,872 | 🐛 125 | 🌐 JavaScript | 📅 2026-04-14 - Vue Router is the official router for Vue.js.
-* [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙](https://github.com/sass/sass) ⭐ 15,371 | 🐛 114 | 🌐 TypeScript | 📅 2026-09-02 - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+* [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙](https://github.com/sass/sass) ⭐ 15,370 | 🐛 114 | 🌐 TypeScript | 📅 2026-09-02 - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 
 ##### Resources
 
@@ -111,8 +111,8 @@ An ever-evolving and opinionated architecture and dev environment for new Vue SP
 
 Build a simple polling progressive web application with some great modern tech.
 
-* [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙](https://github.com/gatsbyjs/gatsby) ⭐ 55,940 | 🐛 441 | 🌐 JavaScript | 📅 2026-09-03 - Gatsby is a blazing fast modern site generator for React.
-* [styled components](https://www.styled-components.com/) - [🛠](https://stackshare.io/styled-components) - [🐙](https://github.com/styled-components/styled-components) ⭐ 41,123 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-28 - A react-specific css-in-js solution.
+* [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙](https://github.com/gatsbyjs/gatsby) ⭐ 55,938 | 🐛 442 | 🌐 JavaScript | 📅 2026-09-04 - Gatsby is a blazing fast modern site generator for React.
+* [styled components](https://www.styled-components.com/) - [🛠](https://stackshare.io/styled-components) - [🐙](https://github.com/styled-components/styled-components) ⭐ 41,124 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-28 - A react-specific css-in-js solution.
 * [Cloud Firestore](https://firebase.google.com/docs/firestore/) - [🛠️](https://stackshare.io/cloud-firestore) - A noSQL cloud database that exposes event listeners for real-time updates.
 * [Netlify](https://netlify.com/) - [🛠️](https://stackshare.io/netlify) - Netlify is a global CDN that makes continuous deployments as simple as a few clicks.
 * [Contentful](https://www.contentful.com/) - [🛠](https://stackshare.io/contentful) - [🐙](https://github.com/contentful) - Contentful is a flexible and future-friendly content platform that helps editors to manage and developers to serve content into mobile or web applications. Last but not least a powerhouse when worked with Gatsby.
@@ -126,10 +126,10 @@ Build a simple polling progressive web application with some great modern tech.
 
 A Hugo boilerplate for creating truly epic websites. This is a boilerplate for using Hugo as a static site generator and Webpack as your asset pipeline.
 
-* [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙](https://github.com/gohugoio/hugo) ⭐ 89,685 | 🐛 223 | 🌐 Go | 📅 2026-09-03 - The world’s fastest framework for building websites.
-* [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙](https://github.com/webpack/webpack) ⭐ 65,961 | 🐛 142 | 🌐 JavaScript | 📅 2026-09-03 - A static module bundler for modern JavaScript applications.
-* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,988 | 🐛 776 | 🌐 TypeScript | 📅 2026-09-03 - A JavaScript compiler; use next generation JavaScript, today.
-* [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙](https://github.com/postcss/postcss) ⭐ 28,979 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-03 - A tool for transforming CSS with JavaScript.
+* [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙](https://github.com/gohugoio/hugo) ⭐ 89,698 | 🐛 223 | 🌐 Go | 📅 2026-09-04 - The world’s fastest framework for building websites.
+* [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙](https://github.com/webpack/webpack) ⭐ 65,961 | 🐛 132 | 🌐 JavaScript | 📅 2026-09-04 - A static module bundler for modern JavaScript applications.
+* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,990 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-04 - A JavaScript compiler; use next generation JavaScript, today.
+* [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙](https://github.com/postcss/postcss) ⭐ 28,978 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-03 - A tool for transforming CSS with JavaScript.
 
 ##### Resources
 
@@ -141,13 +141,13 @@ Bleeding edge vue template focused on code quality and developer happiness.
 
 Offers a complete setup for both small and enterprise-scale apps.
 
-* [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙](https://github.com/Microsoft/TypeScript) ⭐ 110,873 | 🐛 5,140 | 🌐 Go | 📅 2026-09-03 - A typed superset of JavaScript that compiles to plain JavaScript.
-* [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙](https://github.com/docker/docker) ⭐ 72,034 | 🐛 3,877 | 🌐 Go | 📅 2026-09-03 A tool to create, deploy and run applications inside containers.
-* [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙](https://github.com/nuxt/nuxt.js) ⭐ 60,815 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-03 - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
-* [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙](https://github.com/facebook/jest) ⭐ 45,471 | 🐛 188 | 🌐 TypeScript | 📅 2026-09-03 - A comprehensive, delightful JavaScript testing solution.
-* [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙](https://github.com/eslint/eslint) ⭐ 27,496 | 🐛 135 | 🌐 JavaScript | 📅 2026-09-03 - The pluggable linting utility for JavaScript and JSX.
-* [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙](https://github.com/sass/sass) ⭐ 15,371 | 🐛 114 | 🌐 TypeScript | 📅 2026-09-02 - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
-* [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙](https://github.com/stylelint/stylelint) ⭐ 11,517 | 🐛 137 | 🌐 JavaScript | 📅 2026-09-03 - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+* [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙](https://github.com/Microsoft/TypeScript) ⭐ 110,891 | 🐛 5,127 | 🌐 Go | 📅 2026-09-04 - A typed superset of JavaScript that compiles to plain JavaScript.
+* [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙](https://github.com/docker/docker) ⭐ 72,039 | 🐛 3,877 | 🌐 Go | 📅 2026-09-04 A tool to create, deploy and run applications inside containers.
+* [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙](https://github.com/nuxt/nuxt.js) ⭐ 60,816 | 🐛 535 | 🌐 TypeScript | 📅 2026-09-04 - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
+* [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙](https://github.com/facebook/jest) ⭐ 45,474 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-03 - A comprehensive, delightful JavaScript testing solution.
+* [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙](https://github.com/eslint/eslint) ⭐ 27,496 | 🐛 130 | 🌐 JavaScript | 📅 2026-09-04 - The pluggable linting utility for JavaScript and JSX.
+* [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙](https://github.com/sass/sass) ⭐ 15,370 | 🐛 114 | 🌐 TypeScript | 📅 2026-09-02 - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+* [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙](https://github.com/stylelint/stylelint) ⭐ 11,517 | 🐛 136 | 🌐 JavaScript | 📅 2026-09-04 - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 
 ##### Resources
 
@@ -157,12 +157,12 @@ Offers a complete setup for both small and enterprise-scale apps.
 
 A Nextjs Boilerplate code for creating a blog. The perfect solution to start a blog in React and use Tailwind CSS for styling.
 
-* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,051 | 🐛 1,334 | 🌐 JavaScript | 📅 2026-09-03 - React components can be used on the client and server side.
-* [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙](https://github.com/zeit/next.js) ⭐ 142,076 | 🐛 3,309 | 🌐 JavaScript | 📅 2026-09-03 - The React Framework for server rendering, static websites, PWAs.
-* [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙](https://github.com/Microsoft/TypeScript) ⭐ 110,873 | 🐛 5,140 | 🌐 Go | 📅 2026-09-03 - A typed superset of JavaScript that compiles to plain JavaScript.
-* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,988 | 🐛 776 | 🌐 TypeScript | 📅 2026-09-03 - A JavaScript compiler; use next generation JavaScript, today.
-* [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙](https://github.com/postcss/postcss) ⭐ 28,979 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-03 - A tool for transforming CSS with JavaScript.
-* [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙](https://github.com/eslint/eslint) ⭐ 27,496 | 🐛 135 | 🌐 JavaScript | 📅 2026-09-03 - The pluggable linting utility for JavaScript and JSX.
+* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,075 | 🐛 1,339 | 🌐 JavaScript | 📅 2026-09-04 - React components can be used on the client and server side.
+* [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙](https://github.com/zeit/next.js) ⭐ 142,094 | 🐛 3,275 | 🌐 JavaScript | 📅 2026-09-04 - The React Framework for server rendering, static websites, PWAs.
+* [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙](https://github.com/Microsoft/TypeScript) ⭐ 110,891 | 🐛 5,127 | 🌐 Go | 📅 2026-09-04 - A typed superset of JavaScript that compiles to plain JavaScript.
+* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,990 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-04 - A JavaScript compiler; use next generation JavaScript, today.
+* [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙](https://github.com/postcss/postcss) ⭐ 28,978 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-03 - A tool for transforming CSS with JavaScript.
+* [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙](https://github.com/eslint/eslint) ⭐ 27,496 | 🐛 130 | 🌐 JavaScript | 📅 2026-09-04 - The pluggable linting utility for JavaScript and JSX.
 * [Netlify](https://netlify.com/) - [🛠️](https://stackshare.io/netlify) - Netlify is a global CDN that makes continuous deployments as simple as a few clicks.
 
 ##### Resources
@@ -176,10 +176,10 @@ A Nextjs Boilerplate code for creating a blog. The perfect solution to start a b
 
 MERN stands for MongoDB, Express, React, Node. The four key technologies that make up the stack.
 
-* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,051 | 🐛 1,334 | 🌐 JavaScript | 📅 2026-09-03 - React components can be used on the client and server side.
-* [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙](https://github.com/nodejs/node) ⭐ 120,607 | 🐛 1,189 | 🌐 JavaScript | 📅 2026-09-03 - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-* [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙](https://github.com/expressjs/express) ⭐ 69,417 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-01 - Fast, unopinionated, minimalist web framework for Node.js.
-* [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙](https://github.com/mongodb/mongo) ⭐ 28,523 | 🐛 32 | 🌐 C++ | 📅 2026-09-03 - A document and JSON-oriented database.
+* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,075 | 🐛 1,339 | 🌐 JavaScript | 📅 2026-09-04 - React components can be used on the client and server side.
+* [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙](https://github.com/nodejs/node) ⭐ 120,622 | 🐛 1,199 | 🌐 JavaScript | 📅 2026-09-04 - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙](https://github.com/expressjs/express) ⭐ 69,420 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-01 - Fast, unopinionated, minimalist web framework for Node.js.
+* [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙](https://github.com/mongodb/mongo) ⭐ 28,526 | 🐛 32 | 🌐 C++ | 📅 2026-09-04 - A document and JSON-oriented database.
 
 ##### Resources
 
@@ -189,8 +189,8 @@ MERN stands for MongoDB, Express, React, Node. The four key technologies that ma
 
 Lightning fast starter for bloggers, content creators, and really anyone who wants to break free from WordPress.
 
-* [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙](https://github.com/facebook/create-react-app) ⭐ 103,270 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15 - Set up a modern web app by running one command.
-* [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙](https://github.com/apollographql/apollo-client) ⭐ 19,812 | 🐛 405 | 🌐 TypeScript | 📅 2026-09-03 - Apollo Client is the best way to use GraphQL to build client applications.
+* [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙](https://github.com/facebook/create-react-app) ⭐ 103,271 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15 - Set up a modern web app by running one command.
+* [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙](https://github.com/apollographql/apollo-client) ⭐ 19,813 | 🐛 404 | 🌐 TypeScript | 📅 2026-09-03 - Apollo Client is the best way to use GraphQL to build client applications.
 * [GraphCMS](https://graphcms.com/) - [🛠️](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
 
 ##### Resources
@@ -201,8 +201,8 @@ Lightning fast starter for bloggers, content creators, and really anyone who wan
 
 Use Strapi CMS to maintain and manage your Gatsby static site. Deploy to Heroku.
 
-* [Strapi CMS](https://strapi.io) - [🐙](https://github.com/strapi/strapi) ⭐ 73,064 | 🐛 550 | 🌐 TypeScript | 📅 2026-09-03 - Strapi is the Headless CMS developers love.
-* [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙](https://github.com/gatsbyjs/gatsby) ⭐ 55,940 | 🐛 441 | 🌐 JavaScript | 📅 2026-09-03 - Gatsby is a blazing fast modern site generator for React.
+* [Strapi CMS](https://strapi.io) - [🐙](https://github.com/strapi/strapi) ⭐ 73,071 | 🐛 554 | 🌐 TypeScript | 📅 2026-09-04 - Strapi is the Headless CMS developers love.
+* [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙](https://github.com/gatsbyjs/gatsby) ⭐ 55,938 | 🐛 442 | 🌐 JavaScript | 📅 2026-09-04 - Gatsby is a blazing fast modern site generator for React.
 * [Heroku](https://www.heroku.com/) - [🛠️](https://stackshare.io/heroku) - Heroku is a powerful platform for deploying your apps.
 
 ##### Resources
@@ -215,8 +215,8 @@ Use Strapi CMS to maintain and manage your Gatsby static site. Deploy to Heroku.
 
 Add search to your JAMStack website, through a static site integration or by crawling the content.
 
-* [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙](https://github.com/algolia/instantsearch.js) ⭐ 4,059 | 🐛 221 | 🌐 TypeScript | 📅 2026-09-03 - JavaScript library for building performant and instant search experiences.
-* [DocSearch](https://community.algolia.com/docsearch) - [🐙](https://github.com/algolia/docsearch-scraper) ⭐ 321 | 🐛 23 | 🌐 Python | 📅 2024-04-24 - Crawls a website and uploads it to an index.
+* [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙](https://github.com/algolia/instantsearch.js) ⭐ 4,059 | 🐛 220 | 🌐 TypeScript | 📅 2026-09-04 - JavaScript library for building performant and instant search experiences.
+* [DocSearch](https://community.algolia.com/docsearch) - [🐙](https://github.com/algolia/docsearch-scraper) ⭐ 322 | 🐛 23 | 🌐 Python | 📅 2024-04-24 - Crawls a website and uploads it to an index.
 * [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙](https://github.com/algolia/gatsby-plugin-algolia) ⭐ 175 | 🐛 11 | 🌐 JavaScript | 📅 2023-11-02 - Use GraphQL to specify Gatsby object to index with Algolia (beta).
 * [hugo-algolia](https://github.com/replicatedhq/hugo-algolia) ⭐ 48 | 🐛 16 | 🌐 JavaScript | 📅 2024-08-21 - [🐙](https://github.com/replicatedhq/hugo-algolia) ⭐ 48 | 🐛 16 | 🌐 JavaScript | 📅 2024-08-21 - Generate and send indices from Hugo static sites for use with Algolia.
 * [Algolia](https://algolia.com/) - [🛠](https://stackshare.io/algolia) - Hosted search API, free up to 10,000 records.
@@ -229,10 +229,10 @@ Add search to your JAMStack website, through a static site integration or by cra
 
 This is a full stack web app boilerplate project with VueJS + ExpressJS + MongoDB.
 
-* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,625 | 🐛 636 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
-* [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙](https://github.com/nodejs/node) ⭐ 120,607 | 🐛 1,189 | 🌐 JavaScript | 📅 2026-09-03 - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-* [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙](https://github.com/expressjs/express) ⭐ 69,417 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-01 - A minimal and flexible Node.js web application framework.
-* [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙](https://github.com/mongodb/mongo) ⭐ 28,523 | 🐛 32 | 🌐 C++ | 📅 2026-09-03 - A document and JSON-oriented database.
+* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,628 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
+* [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙](https://github.com/nodejs/node) ⭐ 120,622 | 🐛 1,199 | 🌐 JavaScript | 📅 2026-09-04 - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙](https://github.com/expressjs/express) ⭐ 69,420 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-01 - A minimal and flexible Node.js web application framework.
+* [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙](https://github.com/mongodb/mongo) ⭐ 28,526 | 🐛 32 | 🌐 C++ | 📅 2026-09-04 - A document and JSON-oriented database.
 
 ##### Resources
 
@@ -242,9 +242,9 @@ This is a full stack web app boilerplate project with VueJS + ExpressJS + MongoD
 
 A Rails/JavaScript-based stack with modern/developer friendly technologies
 
-* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,051 | 🐛 1,334 | 🌐 JavaScript | 📅 2026-09-03 - React components can be used on the client and server side.
-* [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙](https://github.com/rails/rails) ⭐ 58,748 | 🐛 1,613 | 🌐 Ruby | 📅 2026-09-03 - An established web app framework with a focus on simplicity and productivity.
-* [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙](https://github.com/apollographql/apollo-client) ⭐ 19,812 | 🐛 405 | 🌐 TypeScript | 📅 2026-09-03 - A powerfully extensible GraphQL JavaScript client.
+* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,075 | 🐛 1,339 | 🌐 JavaScript | 📅 2026-09-04 - React components can be used on the client and server side.
+* [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙](https://github.com/rails/rails) ⭐ 58,752 | 🐛 1,610 | 🌐 Ruby | 📅 2026-09-04 - An established web app framework with a focus on simplicity and productivity.
+* [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙](https://github.com/apollographql/apollo-client) ⭐ 19,813 | 🐛 404 | 🌐 TypeScript | 📅 2026-09-03 - A powerfully extensible GraphQL JavaScript client.
 * [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙](https://github.com/rmosolgo/graphql-ruby) ⭐ 5,443 | 🐛 63 | 🌐 Ruby | 📅 2026-09-02 - Ruby server implementation of the GraphQL specification.
 * [Heroku](https://heroku.com) - [🛠️](https://stackshare.io/heroku) Developer friendly web app infrastructure provider with seamless Ruby/Rails support.
 * [Cloud 66](https://www.cloud66.com/) - [🛠️](https://stackshare.io/cloud-66) Cloud 66 gives you everything you need to build, deploy, and manage your Rails applications on any cloud without the headache of the “server stuff”.
@@ -257,8 +257,8 @@ A Rails/JavaScript-based stack with modern/developer friendly technologies
 
 Learn how to build a full-stack production ready note taking app using Serverless and React on AWS from serverless-stack.com. Step-by-step open-source tutorials with screenshots and code samples included.
 
-* [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙](https://github.com/facebook/create-react-app) ⭐ 103,270 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15 - Set up a modern web app by running one command.
-* [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙](https://github.com/serverless/serverless) ⭐ 46,921 | 🐛 1,217 | 🌐 JavaScript | 📅 2026-09-03 - A toolkit for building serverless applications.
+* [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙](https://github.com/facebook/create-react-app) ⭐ 103,271 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15 - Set up a modern web app by running one command.
+* [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙](https://github.com/serverless/serverless) ⭐ 46,920 | 🐛 1,218 | 🌐 JavaScript | 📅 2026-09-04 - A toolkit for building serverless applications.
 * [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - A compute service that runs your code in response to events.
 * [DynamoDB](http://aws.amazon.com/dynamodb/) - [🛠️](https://stackshare.io/amazon-dynamodb) - Fully managed NoSQL database service.
 * [Amazon Cognito](https://aws.amazon.com/cognito/) - [🛠️](https://stackshare.io/amazon-cognito) - Securely manage and synchronize app data for your users across their mobile devices.
@@ -274,10 +274,10 @@ Learn how to build a full-stack production ready note taking app using Serverles
 
 A foundation for scalable cross-platform desktop apps all the way from development to distributing your app.
 
-* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,051 | 🐛 1,334 | 🌐 JavaScript | 📅 2026-09-03 - React components can be used on the client and server side.
-* [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙](https://github.com/electron/electron) ⭐ 122,857 | 🐛 746 | 🌐 C++ | 📅 2026-09-03 - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-* [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙](https://github.com/reduxjs/redux) ⭐ 61,508 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-20 - Predictable state container for JavaScript apps.
-* [electron-builder](https://www.electron.build) - [🐙](https://github.com/electron-userland/electron-builder) ⭐ 14,660 | 🐛 105 | 🌐 TypeScript | 📅 2026-09-03 - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
+* [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,075 | 🐛 1,339 | 🌐 JavaScript | 📅 2026-09-04 - React components can be used on the client and server side.
+* [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙](https://github.com/electron/electron) ⭐ 122,876 | 🐛 745 | 🌐 C++ | 📅 2026-09-04 - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+* [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙](https://github.com/reduxjs/redux) ⭐ 61,508 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-04 - Predictable state container for JavaScript apps.
+* [electron-builder](https://www.electron.build) - [🐙](https://github.com/electron-userland/electron-builder) ⭐ 14,659 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-04 - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 
 ##### Resources
 
@@ -287,12 +287,12 @@ A foundation for scalable cross-platform desktop apps all the way from developme
 
 A foundation for scalable cross-platform desktop apps all the way from development to distributing your app using Vue and Electron.
 
-* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,625 | 🐛 636 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
-* [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙](https://github.com/electron/electron) ⭐ 122,857 | 🐛 746 | 🌐 C++ | 📅 2026-09-03 - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-* [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙](https://github.com/reduxjs/redux) ⭐ 61,508 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-20 - Predictable state container for JavaScript apps.
-* [Vue CLI](https://cli.vuejs.org/) - [🐙](https://github.com/vuejs/vue-cli) ⭐ 29,544 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21 - An approachable core library that focuses on the view layer only.
+* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,628 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
+* [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙](https://github.com/electron/electron) ⭐ 122,876 | 🐛 745 | 🌐 C++ | 📅 2026-09-04 - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+* [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙](https://github.com/reduxjs/redux) ⭐ 61,508 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-04 - Predictable state container for JavaScript apps.
+* [Vue CLI](https://cli.vuejs.org/) - [🐙](https://github.com/vuejs/vue-cli) ⭐ 29,544 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21 - An approachable core library that focuses on the view layer only.
 * [Vue Router](https://router.vuejs.org/) - [🐙](https://github.com/vuejs/vue-router) ⭐ 18,872 | 🐛 125 | 🌐 JavaScript | 📅 2026-04-14 - Vue Router is the official router for Vue.js.
-* [electron-builder](https://www.electron.build) - [🐙](https://github.com/electron-userland/electron-builder) ⭐ 14,660 | 🐛 105 | 🌐 TypeScript | 📅 2026-09-03 - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
+* [electron-builder](https://www.electron.build) - [🐙](https://github.com/electron-userland/electron-builder) ⭐ 14,659 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-04 - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 
 ##### Resources
 
@@ -318,11 +318,11 @@ Quickest way to get started with CI and Code Coverage.
 
 The best way to create a versatile and scalable PHP Web Application! It sure will make you fall in love with PHP (if not, Laravel). Laravel team has an official collaboration with the Vue, so Vue, Babel and Sass is already integrated before you even started!
 
-* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,625 | 🐛 636 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
-* [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙](https://github.com/laravel/laravel) ⭐ 84,928 | 🐛 31 | 🌐 Blade | 📅 2026-08-25 - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
-* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,988 | 🐛 776 | 🌐 TypeScript | 📅 2026-09-03 - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
-* [PHP 7](https://php.net) - [🛠](https://stackshare.io/php) - [🐙](https://github.com/php/php-src) ⭐ 40,357 | 🐛 2,033 | 🌐 C | 📅 2026-09-03 - A popular general-purpose scripting language that is especially suited for web development.
-* [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙](https://github.com/sass/sass) ⭐ 15,371 | 🐛 114 | 🌐 TypeScript | 📅 2026-09-02 - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+* [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) ⭐ 211,628 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10 - An approachable core library that focuses on the view layer only.
+* [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙](https://github.com/laravel/laravel) ⭐ 84,933 | 🐛 31 | 🌐 Blade | 📅 2026-08-25 - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
+* [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) ⭐ 43,990 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-04 - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
+* [PHP 7](https://php.net) - [🛠](https://stackshare.io/php) - [🐙](https://github.com/php/php-src) ⭐ 40,362 | 🐛 2,032 | 🌐 C | 📅 2026-09-04 - A popular general-purpose scripting language that is especially suited for web development.
+* [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙](https://github.com/sass/sass) ⭐ 15,370 | 🐛 114 | 🌐 TypeScript | 📅 2026-09-02 - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 * [Laravel Mix](https://laravel.com/docs/5.8/mix) - [🐙](https://github.com/JeffreyWay/laravel-mix) ⭐ 5,220 | 🐛 271 | 🌐 JavaScript | 📅 2024-01-24 - A build tool built on top of webpack, to easily compile any front end assets. (secret: works with or without Laravel)
 
 ##### Resources
@@ -334,10 +334,10 @@ The best way to create a versatile and scalable PHP Web Application! It sure wil
 
 FReMP stack is a highly scalable full stack framework, which can be used to build robust and modern web apps using Flask, ReactJS, MongoDB and Python.
 
-* [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,051 | 🐛 1,334 | 🌐 JavaScript | 📅 2026-09-03 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-* [Python](https://www.python.org/) - [🛠️](https://stackshare.io/python) - [🐙](https://github.com/python/cpython) ⭐ 75,973 | 🐛 9,626 | 🌐 Python | 📅 2026-09-03 - A programming language that lets you work quickly.
-* [Flask](https://flask.palletsprojects.com/) - [🛠️](https://stackshare.io/flask) - [🐙](https://github.com/pallets/flask) ⭐ 72,163 | 🐛 4 | 🌐 Python | 📅 2026-08-16 - The Python micro framework for building web applications.
-* [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙](https://github.com/mongodb/mongo) ⭐ 28,523 | 🐛 32 | 🌐 C++ | 📅 2026-09-03 - A document and JSON-oriented database.
+* [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,075 | 🐛 1,339 | 🌐 JavaScript | 📅 2026-09-04 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [Python](https://www.python.org/) - [🛠️](https://stackshare.io/python) - [🐙](https://github.com/python/cpython) ⭐ 75,980 | 🐛 9,643 | 🌐 Python | 📅 2026-09-04 - A programming language that lets you work quickly.
+* [Flask](https://flask.palletsprojects.com/) - [🛠️](https://stackshare.io/flask) - [🐙](https://github.com/pallets/flask) ⭐ 72,166 | 🐛 4 | 🌐 Python | 📅 2026-08-16 - The Python micro framework for building web applications.
+* [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙](https://github.com/mongodb/mongo) ⭐ 28,526 | 🐛 32 | 🌐 C++ | 📅 2026-09-04 - A document and JSON-oriented database.
 
 ##### Resources
 
@@ -354,8 +354,8 @@ FReMP stack is a highly scalable full stack framework, which can be used to buil
 
 Stack used to deploy and manage a cluster of Docker containerized applications using Google Cloud services.
 
-* [Kubernetes](https://kubernetes.io/) - [🐙](https://github.com/kubernetes/kubernetes) ⭐ 126,319 | 🐛 3,021 | 🌐 Go | 📅 2026-09-03 - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
-* [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙](https://github.com/docker/docker) ⭐ 72,034 | 🐛 3,877 | 🌐 Go | 📅 2026-09-03 - A tool to create, deploy and run applications inside containers.
+* [Kubernetes](https://kubernetes.io/) - [🐙](https://github.com/kubernetes/kubernetes) ⭐ 126,344 | 🐛 3,038 | 🌐 Go | 📅 2026-09-04 - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
+* [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙](https://github.com/docker/docker) ⭐ 72,039 | 🐛 3,877 | 🌐 Go | 📅 2026-09-04 - A tool to create, deploy and run applications inside containers.
 * [GKE](https://cloud.google.com/kubernetes-engine/) - [🛠](https://stackshare.io/google-kubernetes-engine) - Kubernetes cluster managed by Google.
 * [Stackdriver](https://cloud.google.com/stackdriver/) - [🛠️](https://stackshare.io/stackdriver) - Stackdriver Logging allows you to store, search, analyze, monitor, and alert on log data and events.
 
@@ -363,7 +363,7 @@ Stack used to deploy and manage a cluster of Docker containerized applications u
 
 A collection of tools for building decentralized applications on the Ethereum blockchain.
 
-* [Solidity](https://solidity.readthedocs.io) - [🐙](https://github.com/ethereum/solidity) ⭐ 25,722 | 🐛 808 | 🌐 C++ | 📅 2026-09-03 - Solidity is an object-oriented, high-level language for implementing smart contracts.
+* [Solidity](https://solidity.readthedocs.io) - [🐙](https://github.com/ethereum/solidity) ⭐ 25,724 | 🐛 808 | 🌐 C++ | 📅 2026-09-04 - Solidity is an object-oriented, high-level language for implementing smart contracts.
 * [web3.js](https://web3js.readthedocs.io) - [🐙](https://github.com/ethereum/web3.js) ⚠️ Archived - Ethereum JavaScript API.
 * [Truffle](https://truffleframework.com/truffle) - [🐙](https://github.com/trufflesuite/truffle) ⚠️ Archived - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
 * [Ganache](https://truffleframework.com/ganache) - [🐙](https://github.com/trufflesuite/ganache) ⚠️ Archived - Personal blockchain for Ethereum development.
@@ -392,9 +392,9 @@ Hosted tools to use to analyze user behavior for a web app.
 
 The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 
-* [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙](https://github.com/apache/spark) ⭐ 43,945 | 🐛 490 | 🌐 Scala | 📅 2026-09-03 - Fast and general engine for large-scale data processing.
-* [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙](https://github.com/apache/kafka) ⭐ 33,660 | 🐛 534 | 🌐 Java | 📅 2026-09-03 - Distributed, fault tolerant, high throughput pub-sub messaging system.
-* [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙](https://github.com/apache/cassandra) ⭐ 10,092 | 🐛 496 | 🌐 Java | 📅 2026-09-03 - Highly-scalable partitioned row store.
+* [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙](https://github.com/apache/spark) ⭐ 43,948 | 🐛 499 | 🌐 Scala | 📅 2026-09-04 - Fast and general engine for large-scale data processing.
+* [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙](https://github.com/apache/kafka) ⭐ 33,667 | 🐛 536 | 🌐 Java | 📅 2026-09-04 - Distributed, fault tolerant, high throughput pub-sub messaging system.
+* [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙](https://github.com/apache/cassandra) ⭐ 10,092 | 🐛 511 | 🌐 Java | 📅 2026-09-03 - Highly-scalable partitioned row store.
 
 ##### Resources
 
@@ -406,10 +406,10 @@ The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 
 Self-hosted open source devops and collaboration tools, suitable for enterprise.
 
-* [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙](https://github.com/metabase/metabase) ⭐ 49,076 | 🐛 4,390 | 🌐 Clojure | 📅 2026-09-03 - An open-source business intelligence tool.
-* [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙](https://github.com/getsentry/sentry) ⭐ 44,720 | 🐛 2,233 | 🌐 Python | 📅 2026-09-03 - Cross-platform application monitoring, with a focus on error reporting.
-* [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙](https://github.com/zulip/zulip) ⭐ 25,827 | 🐛 2,034 | 🌐 Python | 📅 2026-09-03 - Powerful open source team chat.
-* [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙](https://github.com/gitlabhq/gitlabhq) ⭐ 24,551 | 🐛 36 | 🌐 Ruby | 📅 2026-09-03 - Open source self-hosted Git management software.
+* [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙](https://github.com/metabase/metabase) ⭐ 49,094 | 🐛 4,384 | 🌐 Clojure | 📅 2026-09-04 - An open-source business intelligence tool.
+* [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙](https://github.com/getsentry/sentry) ⭐ 44,729 | 🐛 2,231 | 🌐 Python | 📅 2026-09-04 - Cross-platform application monitoring, with a focus on error reporting.
+* [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙](https://github.com/zulip/zulip) ⭐ 25,839 | 🐛 2,027 | 🌐 Python | 📅 2026-09-04 - Powerful open source team chat.
+* [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙](https://github.com/gitlabhq/gitlabhq) ⭐ 24,551 | 🐛 36 | 🌐 Ruby | 📅 2026-09-04 - Open source self-hosted Git management software.
 * [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙](https://github.com/hubotio/hubot) ⭐ 16,796 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-03 - A customizable life embetterment robot.
 * [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
 
@@ -419,22 +419,22 @@ Bleeding edge Django template focused on code quality and security.
 
 Build, test, and deploy pipelines are configured by default.
 
-* [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙](https://github.com/django/django) ⭐ 89,931 | 🐛 484 | 🌐 Python | 📅 2026-09-03 - The Web framework for perfectionists with deadlines.
-* [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙](https://github.com/python/cpython) ⭐ 75,973 | 🐛 9,626 | 🌐 Python | 📅 2026-09-03 - A programming language that lets you work quickly.
-* [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙](https://github.com/mholt/caddy) ⭐ 75,453 | 🐛 276 | 🌐 Go | 📅 2026-09-02 - The HTTP/2 Web Server with Automatic HTTPS.
-* [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙](https://github.com/docker/docker) ⭐ 72,034 | 🐛 3,877 | 🌐 Go | 📅 2026-09-03 - A tool to create, deploy and run applications inside containers.
-* [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙](https://github.com/gitlabhq/gitlabhq) ⭐ 24,551 | 🐛 36 | 🌐 Ruby | 📅 2026-09-03 - Open source self-hosted Git management software.
+* [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙](https://github.com/django/django) ⭐ 89,937 | 🐛 485 | 🌐 Python | 📅 2026-09-04 - The Web framework for perfectionists with deadlines.
+* [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙](https://github.com/python/cpython) ⭐ 75,980 | 🐛 9,643 | 🌐 Python | 📅 2026-09-04 - A programming language that lets you work quickly.
+* [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙](https://github.com/mholt/caddy) ⭐ 75,483 | 🐛 275 | 🌐 Go | 📅 2026-09-04 - The HTTP/2 Web Server with Automatic HTTPS.
+* [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙](https://github.com/docker/docker) ⭐ 72,039 | 🐛 3,877 | 🌐 Go | 📅 2026-09-04 - A tool to create, deploy and run applications inside containers.
+* [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙](https://github.com/gitlabhq/gitlabhq) ⭐ 24,551 | 🐛 36 | 🌐 Ruby | 📅 2026-09-04 - Open source self-hosted Git management software.
 
 ##### Resources
 
-* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,271 | 🐛 21 | 🌐 Python | 📅 2026-08-31
+* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,271 | 🐛 21 | 🌐 Python | 📅 2026-09-04
 
 ### RESTful API with Java and Spring Boot [↗](https://awesomestacks.dev/res-tful-api-with-java-and-spring-boot)
 
 Build a simple and robust RESTful API.
 
-* [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙](https://github.com/spring-projects/spring-boot) ⭐ 81,401 | 🐛 488 | 🌐 Java | 📅 2026-09-03 - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
-* [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙](https://github.com/gradle/gradle) ⭐ 18,823 | 🐛 3,484 | 🌐 Groovy | 📅 2026-09-03- A build tool with a focus on build automation and support for multi-language development.
+* [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙](https://github.com/spring-projects/spring-boot) ⭐ 81,408 | 🐛 483 | 🌐 Java | 📅 2026-09-04 - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+* [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙](https://github.com/gradle/gradle) ⭐ 18,825 | 🐛 3,476 | 🌐 Groovy | 📅 2026-09-04- A build tool with a focus on build automation and support for multi-language development.
 * [Java](https://docs.oracle.com/javase/specs/index.html) - [🛠️](https://stackshare.io/java) - Java is an Object-Oriented and one of the most used programming languages in the world.
 
 #### Resources
@@ -445,7 +445,7 @@ Build a simple and robust RESTful API.
 
 Connect to various datasources and combine the data into a real-time GraphQL API and AdminUI. Useful stack when you have multiple datasources such as Postgres, MySql, Sqlite, Rest, etc.
 
-* [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,051 | 🐛 1,334 | 🌐 JavaScript | 📅 2026-09-03 - The adminUI is built in React and can be extended.
+* [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) ⭐ 249,075 | 🐛 1,339 | 🌐 JavaScript | 📅 2026-09-04 - The adminUI is built in React and can be extended.
 * [Graphweaver](https://graphweaver.com/) - [🛠️](https://stackshare.io/graphweaver) - [🐙](https://github.com/exogee-technology/graphweaver) ⭐ 553 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-20 - Data Everywhere - Instant GraphQL.
 * [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - Deployable as a single JS bundle to lambda.
 * [AWS Cognito](https://aws.amazon.com/cognito) - Pre-built integration with AWS Cognito.
@@ -460,9 +460,9 @@ Connect to various datasources and combine the data into a real-time GraphQL API
 
 Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL APIs on any Postgres database. This React Native stack uses Hasura droplets hosted on Digital Ocean.
 
-* [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙](https://github.com/facebook/react-native) ⭐ 126,481 | 🐛 1,162 | 🌐 C++ | 📅 2026-09-03 - Build native mobile apps using JavaScript and React.
-* [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙](https://github.com/expo/expo) ⭐ 52,015 | 🐛 770 | 🌐 TypeScript | 📅 2026-09-03 - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
-* [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙](https://github.com/hasura/graphql-engine) ⭐ 32,108 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-19 - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
+* [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙](https://github.com/facebook/react-native) ⭐ 126,494 | 🐛 1,165 | 🌐 C++ | 📅 2026-09-04 - Build native mobile apps using JavaScript and React.
+* [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙](https://github.com/expo/expo) ⭐ 52,040 | 🐛 766 | 🌐 TypeScript | 📅 2026-09-04 - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
+* [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙](https://github.com/hasura/graphql-engine) ⭐ 32,110 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-19 - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
 * [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 * [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 
@@ -476,7 +476,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 
 Unity is a game engine that connects to Plastic SCM to keep version control and large asset and huge repo management clean and frictionless.
 
-* [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙](https://github.com/Unity-Technologies/UnityCsReference) ⭐ 12,975 | 🐛 19 | 🌐 C# | 📅 2026-09-02 - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
+* [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙](https://github.com/Unity-Technologies/UnityCsReference) ⭐ 12,974 | 🐛 19 | 🌐 C# | 📅 2026-09-02 - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
 * [Plastic SCM](https://www.plasticscm.com/) - [🛠️](https://stackshare.io/plastic-scm) - [🐙](https://github.com/PlasticSCM/plastic-docker) ⭐ 5 | 🐛 1 | 🌐 Dockerfile | 📅 2020-10-09 - PlasticSCM Docker image.
 * [TeamCity](https://www.jetbrains.com/teamcity/) - [🛠](https://stackshare.io/teamcity) - A Java-based build management and continuous integration server from JetBrains.
 
@@ -489,7 +489,7 @@ Unity is a game engine that connects to Plastic SCM to keep version control and 
 
 Boost your Productivity with GitHub, Jira and Jenkins.
 
-* [Jenkins](https://jenkins.io/) - [🛠️](https://stackshare.io/jenkins) - [🐙](https://github.com/jenkinsci/jenkins) ⭐ 26,526 | 🐛 3,623 | 🌐 Java | 📅 2026-09-03 - Open source automation server for CI/CD.
+* [Jenkins](https://jenkins.io/) - [🛠️](https://stackshare.io/jenkins) - [🐙](https://github.com/jenkinsci/jenkins) ⭐ 26,530 | 🐛 3,620 | 🌐 Java | 📅 2026-09-04 - Open source automation server for CI/CD.
 * [GitHub](https://github.com/) - [🛠](https://stackshare.io/github) - The site to keep your code and open it to world.
 * [Jira](https://es.atlassian.com/software/jira) - [🛠️](https://stackshare.io/jira) - Agile software development.
 * [Slack](https://slack.com) - [🛠️](https://stackshare.io/slack) - Where work flows.
@@ -510,4 +510,4 @@ To the extent possible under law, [StackShare](https://stackshare.io) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
